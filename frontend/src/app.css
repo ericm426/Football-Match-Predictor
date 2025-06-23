@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.prediction-form {
+  margin: 20px 0;
+}
+
+.prediction-form input {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.prediction-form button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #61dafb;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.prediction-form button:hover {
+  background-color: #21a9c7;
+}
+
+.prediction-result {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  color: black;
+  border-radius: 8px;
+}
