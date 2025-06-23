@@ -1,2 +1,2 @@
 # football match predictor
-Using APIs, datascrapin, and statistical analysis + ML
+Using APIs, datascraping, and statistical analysis + ML
