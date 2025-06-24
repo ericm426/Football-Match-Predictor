@@ -1,0 +1,56 @@
+{
+  "basic_probabilities": {
+    "home_win_rate": 0.4605263157894737,
+    "away_win_rate": 0.3236842105263158,
+    "draw_rate": 0.21578947368421053,
+    "total_matches": 380
+  },
+  "form_probabilities": {
+    "-1.5": {
+      "home_win_prob": 0.0,
+      "away_win_prob": 0.9444444444444444,
+      "draw_prob": 0.05555555555555555,
+      "sample_size": 18
+    },
+    "1.5": {
+      "home_win_prob": 0.8888888888888888,
+      "away_win_prob": 0.05555555555555555,
+      "draw_prob": 0.05555555555555555,
+      "sample_size": 18
+    },
+    "0.0": {
+      "home_win_prob": 0.45652173913043476,
+      "away_win_prob": 0.2608695652173913,
+      "draw_prob": 0.2826086956521739,
+      "sample_size": 92
+    },
+    "0.5": {
+      "home_win_prob": 0.654320987654321,
+      "away_win_prob": 0.19753086419753085,
+      "draw_prob": 0.14814814814814814,
+      "sample_size": 81
+    },
+    "-0.5": {
+      "home_win_prob": 0.25925925925925924,
+      "away_win_prob": 0.43209876543209874,
+      "draw_prob": 0.30864197530864196,
+      "sample_size": 81
+    },
+    "-1.0": {
+      "home_win_prob": 0.17777777777777778,
+      "away_win_prob": 0.6222222222222222,
+      "draw_prob": 0.2,
+      "sample_size": 45
+    },
+    "1.0": {
+      "home_win_prob": 0.7777777777777778,
+      "away_win_prob": 0.044444444444444446,
+      "draw_prob": 0.17777777777777778,
+      "sample_size": 45
+    }
+  },
+  "metadata": {
+    "season": "2023-24",
+    "total_matches": 380
+  }
+}

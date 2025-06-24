@@ -46,17 +46,31 @@ def predict_match():
     data = request.json
     home_data = data.get('homeTeam')
     away_data = data.get('awayTeam')
-
+    
     home_team = home_data['name']
     away_team = away_data['name']
+    home_short = home_data['shortName']
+    away_short = away_data['shortName']
+    
+    base_home_prob = 46.1 # calculated from my data calc in data folder
+    base_away_prob = 32.4
+    base_draw_prob = 21.6
+
+    home_recent_form = football_api.get_recent_form(home_team, limit=5)
+    away_recent_form = football_api.get_recent_form(away_team, limit=5)
+
+    home_season_form = football_api.get_season_form(home_team)
+    away_season_form = football_api.get_season_form(away_team)
+
+
     # basic logic, not in depth yet
     prediction = {
         "home_team": home_team,
         "away_team": away_team,
-        "prediction": f"Loading Analysis for {home_team} vs {away_team}",
-        "home_win_prob": 45,
-        "draw_prob": 25,
-        "away_win_prob": 30,
+        "prediction": f"Loading analysis for {home_short} vs {away_short} . . .",
+        "home_win_prob": 46.1,
+        "draw_prob": 21.6,
+        "away_win_prob": 32.4,
         "confidence": "Medium"
     }
 
