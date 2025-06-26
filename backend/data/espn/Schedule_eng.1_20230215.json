@@ -1,1 +1,1004 @@
-{"leagues":[{"id":"700","uid":"s:600~l:700","name":"English Premier League","abbreviation":"Premier League","midsizeName":"ENG.1","slug":"eng.1","season":{"year":2022,"startDate":"2022-06-01T04:00Z","endDate":"2023-06-01T03:59Z","displayName":"2022-23 English Premier League","type":{"id":"1","type":11127,"name":"2022-23 English Premier League","abbreviation":"2022-23 English Premier League"}},"logos":[{"href":"https://a.espncdn.com/i/leaguelogos/soccer/500/23.png","width":500,"height":500,"alt":"","rel":["full","default"],"lastUpdated":"2019-05-08T16:07Z"},{"href":"https://a.espncdn.com/i/leaguelogos/soccer/500-dark/23.png","width":500,"height":500,"alt":"","rel":["full","dark"],"lastUpdated":"2021-08-10T20:43Z"}],"calendarType":"day","calendarIsWhitelist":true,"calendarStartDate":"2022-06-01T04:00Z","calendarEndDate":"2023-06-01T03:59Z","calendar":["2022-08-05T07:00Z","2022-08-06T07:00Z","2022-08-07T07:00Z","2022-08-13T07:00Z","2022-08-14T07:00Z","2022-08-15T07:00Z","2022-08-20T07:00Z","2022-08-21T07:00Z","2022-08-22T07:00Z","2022-08-27T07:00Z","2022-08-28T07:00Z","2022-08-30T07:00Z","2022-08-31T07:00Z","2022-09-01T07:00Z","2022-09-03T07:00Z","2022-09-04T07:00Z","2022-09-16T07:00Z","2022-09-17T07:00Z","2022-09-18T07:00Z","2022-10-01T07:00Z","2022-10-02T07:00Z","2022-10-03T07:00Z","2022-10-08T07:00Z","2022-10-09T07:00Z","2022-10-10T07:00Z","2022-10-14T07:00Z","2022-10-15T07:00Z","2022-10-16T07:00Z","2022-10-18T07:00Z","2022-10-19T07:00Z","2022-10-20T07:00Z","2022-10-22T07:00Z","2022-10-23T07:00Z","2022-10-24T07:00Z","2022-10-29T07:00Z","2022-10-30T07:00Z","2022-11-05T07:00Z","2022-11-06T07:00Z","2022-11-12T08:00Z","2022-11-13T08:00Z","2022-12-26T08:00Z","2022-12-27T08:00Z","2022-12-28T08:00Z","2022-12-30T08:00Z","2022-12-31T08:00Z","2023-01-01T08:00Z","2023-01-02T08:00Z","2023-01-03T08:00Z","2023-01-04T08:00Z","2023-01-05T08:00Z","2023-01-12T08:00Z","2023-01-13T08:00Z","2023-01-14T08:00Z","2023-01-15T08:00Z","2023-01-18T08:00Z","2023-01-19T08:00Z","2023-01-21T08:00Z","2023-01-22T08:00Z","2023-01-23T08:00Z","2023-02-03T08:00Z","2023-02-04T08:00Z","2023-02-05T08:00Z","2023-02-08T08:00Z","2023-02-11T08:00Z","2023-02-12T08:00Z","2023-02-13T08:00Z","2023-02-15T08:00Z","2023-02-18T08:00Z","2023-02-19T08:00Z","2023-02-24T08:00Z","2023-02-25T08:00Z","2023-02-26T08:00Z","2023-03-01T08:00Z","2023-03-04T08:00Z","2023-03-05T08:00Z","2023-03-06T08:00Z","2023-03-11T08:00Z","2023-03-12T08:00Z","2023-03-15T07:00Z","2023-03-17T07:00Z","2023-03-18T07:00Z","2023-03-19T07:00Z","2023-04-01T07:00Z","2023-04-02T07:00Z","2023-04-03T07:00Z","2023-04-04T07:00Z","2023-04-05T07:00Z","2023-04-08T07:00Z","2023-04-09T07:00Z","2023-04-15T07:00Z","2023-04-16T07:00Z","2023-04-17T07:00Z","2023-04-21T07:00Z","2023-04-22T07:00Z","2023-04-23T07:00Z","2023-04-25T07:00Z","2023-04-26T07:00Z","2023-04-27T07:00Z","2023-04-29T07:00Z","2023-04-30T07:00Z","2023-05-01T07:00Z","2023-05-02T07:00Z","2023-05-03T07:00Z","2023-05-04T07:00Z","2023-05-06T07:00Z","2023-05-07T07:00Z","2023-05-08T07:00Z","2023-05-13T07:00Z","2023-05-14T07:00Z","2023-05-15T07:00Z","2023-05-18T07:00Z","2023-05-20T07:00Z","2023-05-21T07:00Z","2023-05-22T07:00Z","2023-05-24T07:00Z","2023-05-25T07:00Z","2023-05-28T07:00Z"]}],"events":[{"id":"637931","uid":"s:600~l:700~e:637931","date":"2023-02-15T19:30Z","name":"Manchester City at Arsenal","shortName":"MNC @ ARS","season":{"year":2022,"type":11127,"slug":"2022-23-english-premier-league"},"competitions":[{"id":"637931","uid":"s:600~l:700~e:637931~c:637931","date":"2023-02-15T19:30Z","startDate":"2023-02-15T19:30Z","attendance":60276,"timeValid":true,"recent":false,"status":{"clock":5400.0,"displayClock":"90'+6'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"id":"2267","fullName":"Emirates Stadium","address":{"city":"London","country":"England"}},"format":{"regulation":{"periods":2}},"notes":[],"geoBroadcasts":[],"broadcasts":[],"broadcast":"","competitors":[{"id":"359","uid":"s:600~t:359","type":"team","order":0,"homeAway":"home","winner":false,"form":"WWDLL","score":"1","records":[{"name":"All Splits","type":"total","summary":"16-3-3","abbreviation":"Total"}],"team":{"id":"359","uid":"s:600~t:359","abbreviation":"ARS","displayName":"Arsenal","shortDisplayName":"Arsenal","name":"Arsenal","location":"Arsenal","color":"e20520","alternateColor":"132257","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/359.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/359/arsenal","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/359/arsenal","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/359/arsenal","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/359/arsenal","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"2267"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"14"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"0"},{"name":"wonCorners","abbreviation":"CW","displayValue":"0"},{"name":"goalAssists","abbreviation":"A","displayValue":"0"},{"name":"possessionPct","abbreviation":"PP","displayValue":"0"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"7"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"0"},{"name":"totalGoals","abbreviation":"G","displayValue":"0"},{"name":"totalShots","abbreviation":"SH","displayValue":"0"}]},{"id":"382","uid":"s:600~t:382","type":"team","order":1,"homeAway":"away","winner":true,"form":"WWWWL","score":"3","records":[{"name":"All Splits","type":"total","summary":"16-3-4","abbreviation":"Total"}],"team":{"id":"382","uid":"s:600~t:382","abbreviation":"MNC","displayName":"Manchester City","shortDisplayName":"Man City","name":"Manchester City","location":"Manchester City","color":"99c5ea","alternateColor":"e6ff00","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/382.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/382/manchester-city","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/382/manchester-city","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/382/manchester-city","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/382/manchester-city","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"2022"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"14"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"0"},{"name":"wonCorners","abbreviation":"CW","displayValue":"0"},{"name":"goalAssists","abbreviation":"A","displayValue":"0"},{"name":"possessionPct","abbreviation":"PP","displayValue":"0"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"5"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"0"},{"name":"totalGoals","abbreviation":"G","displayValue":"0"},{"name":"totalShots","abbreviation":"SH","displayValue":"0"}]}],"details":[{"type":{"id":"70","text":"Goal"},"clock":{"value":1426.0,"displayValue":"24'"},"team":{"id":"382"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"134947","displayName":"Kevin De Bruyne","shortName":"K De Bruyne","fullName":"Kevin De Bruyne","jersey":"17","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/134947/kevin-de-bruyne","isHidden":false}],"position":"M"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":2013.0,"displayValue":"34'"},"team":{"id":"382"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"129358","displayName":"Kyle Walker","shortName":"K Walker","fullName":"Kyle Walker","jersey":"2","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/129358/kyle-walker","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":2140.0,"displayValue":"36'"},"team":{"id":"382"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"176948","displayName":"Ederson","shortName":"Ederson","fullName":"Ederson","jersey":"31","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/176948/ederson","isHidden":false}],"position":"G"}]},{"type":{"id":"98","text":"Penalty - Scored"},"clock":{"value":2488.0,"displayValue":"42'"},"team":{"id":"359"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":true,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"280555","displayName":"Bukayo Saka","shortName":"B Saka","fullName":"Bukayo Saka","jersey":"7","team":{"id":"359"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/280555/bukayo-saka","isHidden":false}],"position":"F"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":2700.0,"displayValue":"45'+2'"},"team":{"id":"382"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"199833","displayName":"Bernardo Silva","shortName":"B Silva","fullName":"Bernardo Silva","jersey":"20","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/199833/bernardo-silva","isHidden":false}],"position":"M"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":2826.0,"displayValue":"48'"},"team":{"id":"359"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"238004","displayName":"Takehiro Tomiyasu","shortName":"T Tomiyasu","fullName":"Takehiro Tomiyasu","jersey":"18","team":{"id":"359"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/238004/takehiro-tomiyasu","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":3707.0,"displayValue":"62'"},"team":{"id":"382"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"172850","displayName":"Jack Grealish","shortName":"J Grealish","fullName":"Jack Grealish","jersey":"10","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/172850/jack-grealish","isHidden":false}],"position":"M"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":3813.0,"displayValue":"64'"},"team":{"id":"359"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"259486","displayName":"Eddie Nketiah","shortName":"E Nketiah","fullName":"Eddie Nketiah","jersey":"14","team":{"id":"359"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/259486/eddie-nketiah","isHidden":false}],"position":"F"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":4281.0,"displayValue":"72'"},"team":{"id":"382"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"172850","displayName":"Jack Grealish","shortName":"J Grealish","fullName":"Jack Grealish","jersey":"10","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/172850/jack-grealish","isHidden":false}],"position":"M"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":4870.0,"displayValue":"82'"},"team":{"id":"382"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"253989","displayName":"Erling Haaland","shortName":"E Haaland","fullName":"Erling Haaland","jersey":"9","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/253989/erling-haaland","isHidden":false}],"position":"F"}]}],"headlines":[{"description":"— Manchester City seized the momentum in the Premier League title race after Jack Grealish and Erling Haaland scored second-half goals to secure a 3-1 win at Arsenal on Wednesday.","type":"Recap","shortLinkText":"Man City beats Arsenal to seize momentum in EPL title race"}],"wasSuspended":false,"playByPlayAvailable":true,"playByPlayAthletes":true}],"status":{"clock":5400.0,"displayClock":"90'+6'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"displayName":"Emirates Stadium"},"links":[{"language":"en-US","rel":["summary","desktop","event"],"href":"https://www.espn.com/soccer/match/_/gameId/637931/manchester-city-arsenal","text":"Summary","shortText":"Summary","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["recap","desktop","event"],"href":"https://www.espn.com/soccer/report/_/gameId/637931","text":"Report","shortText":"Report","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["stats","desktop","event"],"href":"https://www.espn.com/soccer/matchstats/_/gameId/637931","text":"Statistics","shortText":"Statistics","isExternal":false,"isPremium":false,"isHidden":false}]}]}
+{
+  "leagues": [
+    {
+      "id": "700",
+      "uid": "s:600~l:700",
+      "name": "English Premier League",
+      "abbreviation": "Premier League",
+      "midsizeName": "ENG.1",
+      "slug": "eng.1",
+      "season": {
+        "year": 2022,
+        "startDate": "2022-06-01T04:00Z",
+        "endDate": "2023-06-01T03:59Z",
+        "displayName": "2022-23 English Premier League",
+        "type": {
+          "id": "1",
+          "type": 11127,
+          "name": "2022-23 English Premier League",
+          "abbreviation": "2022-23 English Premier League"
+        }
+      },
+      "logos": [
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "lastUpdated": "2019-05-08T16:07Z"
+        },
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500-dark/23.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "lastUpdated": "2021-08-10T20:43Z"
+        }
+      ],
+      "calendarType": "day",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2022-06-01T04:00Z",
+      "calendarEndDate": "2023-06-01T03:59Z",
+      "calendar": [
+        "2022-08-05T07:00Z",
+        "2022-08-06T07:00Z",
+        "2022-08-07T07:00Z",
+        "2022-08-13T07:00Z",
+        "2022-08-14T07:00Z",
+        "2022-08-15T07:00Z",
+        "2022-08-20T07:00Z",
+        "2022-08-21T07:00Z",
+        "2022-08-22T07:00Z",
+        "2022-08-27T07:00Z",
+        "2022-08-28T07:00Z",
+        "2022-08-30T07:00Z",
+        "2022-08-31T07:00Z",
+        "2022-09-01T07:00Z",
+        "2022-09-03T07:00Z",
+        "2022-09-04T07:00Z",
+        "2022-09-16T07:00Z",
+        "2022-09-17T07:00Z",
+        "2022-09-18T07:00Z",
+        "2022-10-01T07:00Z",
+        "2022-10-02T07:00Z",
+        "2022-10-03T07:00Z",
+        "2022-10-08T07:00Z",
+        "2022-10-09T07:00Z",
+        "2022-10-10T07:00Z",
+        "2022-10-14T07:00Z",
+        "2022-10-15T07:00Z",
+        "2022-10-16T07:00Z",
+        "2022-10-18T07:00Z",
+        "2022-10-19T07:00Z",
+        "2022-10-20T07:00Z",
+        "2022-10-22T07:00Z",
+        "2022-10-23T07:00Z",
+        "2022-10-24T07:00Z",
+        "2022-10-29T07:00Z",
+        "2022-10-30T07:00Z",
+        "2022-11-05T07:00Z",
+        "2022-11-06T07:00Z",
+        "2022-11-12T08:00Z",
+        "2022-11-13T08:00Z",
+        "2022-12-26T08:00Z",
+        "2022-12-27T08:00Z",
+        "2022-12-28T08:00Z",
+        "2022-12-30T08:00Z",
+        "2022-12-31T08:00Z",
+        "2023-01-01T08:00Z",
+        "2023-01-02T08:00Z",
+        "2023-01-03T08:00Z",
+        "2023-01-04T08:00Z",
+        "2023-01-05T08:00Z",
+        "2023-01-12T08:00Z",
+        "2023-01-13T08:00Z",
+        "2023-01-14T08:00Z",
+        "2023-01-15T08:00Z",
+        "2023-01-18T08:00Z",
+        "2023-01-19T08:00Z",
+        "2023-01-21T08:00Z",
+        "2023-01-22T08:00Z",
+        "2023-01-23T08:00Z",
+        "2023-02-03T08:00Z",
+        "2023-02-04T08:00Z",
+        "2023-02-05T08:00Z",
+        "2023-02-08T08:00Z",
+        "2023-02-11T08:00Z",
+        "2023-02-12T08:00Z",
+        "2023-02-13T08:00Z",
+        "2023-02-15T08:00Z",
+        "2023-02-18T08:00Z",
+        "2023-02-19T08:00Z",
+        "2023-02-24T08:00Z",
+        "2023-02-25T08:00Z",
+        "2023-02-26T08:00Z",
+        "2023-03-01T08:00Z",
+        "2023-03-04T08:00Z",
+        "2023-03-05T08:00Z",
+        "2023-03-06T08:00Z",
+        "2023-03-11T08:00Z",
+        "2023-03-12T08:00Z",
+        "2023-03-15T07:00Z",
+        "2023-03-17T07:00Z",
+        "2023-03-18T07:00Z",
+        "2023-03-19T07:00Z",
+        "2023-04-01T07:00Z",
+        "2023-04-02T07:00Z",
+        "2023-04-03T07:00Z",
+        "2023-04-04T07:00Z",
+        "2023-04-05T07:00Z",
+        "2023-04-08T07:00Z",
+        "2023-04-09T07:00Z",
+        "2023-04-15T07:00Z",
+        "2023-04-16T07:00Z",
+        "2023-04-17T07:00Z",
+        "2023-04-21T07:00Z",
+        "2023-04-22T07:00Z",
+        "2023-04-23T07:00Z",
+        "2023-04-25T07:00Z",
+        "2023-04-26T07:00Z",
+        "2023-04-27T07:00Z",
+        "2023-04-29T07:00Z",
+        "2023-04-30T07:00Z",
+        "2023-05-01T07:00Z",
+        "2023-05-02T07:00Z",
+        "2023-05-03T07:00Z",
+        "2023-05-04T07:00Z",
+        "2023-05-06T07:00Z",
+        "2023-05-07T07:00Z",
+        "2023-05-08T07:00Z",
+        "2023-05-13T07:00Z",
+        "2023-05-14T07:00Z",
+        "2023-05-15T07:00Z",
+        "2023-05-18T07:00Z",
+        "2023-05-20T07:00Z",
+        "2023-05-21T07:00Z",
+        "2023-05-22T07:00Z",
+        "2023-05-24T07:00Z",
+        "2023-05-25T07:00Z",
+        "2023-05-28T07:00Z"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "637931",
+      "uid": "s:600~l:700~e:637931",
+      "date": "2023-02-15T19:30Z",
+      "name": "Manchester City at Arsenal",
+      "shortName": "MNC @ ARS",
+      "season": {
+        "year": 2022,
+        "type": 11127,
+        "slug": "2022-23-english-premier-league"
+      },
+      "competitions": [
+        {
+          "id": "637931",
+          "uid": "s:600~l:700~e:637931~c:637931",
+          "date": "2023-02-15T19:30Z",
+          "startDate": "2023-02-15T19:30Z",
+          "attendance": 60276,
+          "timeValid": true,
+          "recent": false,
+          "status": {
+            "clock": 5400.0,
+            "displayClock": "90'+6'",
+            "period": 2,
+            "type": {
+              "id": "28",
+              "name": "STATUS_FULL_TIME",
+              "state": "post",
+              "completed": true,
+              "description": "Full Time",
+              "detail": "FT",
+              "shortDetail": "FT"
+            }
+          },
+          "venue": {
+            "id": "2267",
+            "fullName": "Emirates Stadium",
+            "address": {
+              "city": "London",
+              "country": "England"
+            }
+          },
+          "format": {
+            "regulation": {
+              "periods": 2
+            }
+          },
+          "notes": [],
+          "geoBroadcasts": [],
+          "broadcasts": [],
+          "broadcast": "",
+          "competitors": [
+            {
+              "id": "359",
+              "uid": "s:600~t:359",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "winner": false,
+              "form": "WWDLL",
+              "score": "1",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "16-3-3",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "359",
+                "uid": "s:600~t:359",
+                "abbreviation": "ARS",
+                "displayName": "Arsenal",
+                "shortDisplayName": "Arsenal",
+                "name": "Arsenal",
+                "location": "Arsenal",
+                "color": "e20520",
+                "alternateColor": "132257",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/359/arsenal",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/359/arsenal",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/359/arsenal",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/359/arsenal",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "2267"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "14"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "7"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "0"
+                }
+              ]
+            },
+            {
+              "id": "382",
+              "uid": "s:600~t:382",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "winner": true,
+              "form": "WWWWL",
+              "score": "3",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "16-3-4",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "382",
+                "uid": "s:600~t:382",
+                "abbreviation": "MNC",
+                "displayName": "Manchester City",
+                "shortDisplayName": "Man City",
+                "name": "Manchester City",
+                "location": "Manchester City",
+                "color": "99c5ea",
+                "alternateColor": "e6ff00",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/382/manchester-city",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/382/manchester-city",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/382/manchester-city",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/382/manchester-city",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "2022"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "14"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "5"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "0"
+                }
+              ]
+            }
+          ],
+          "details": [
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 1426.0,
+                "displayValue": "24'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "134947",
+                  "displayName": "Kevin De Bruyne",
+                  "shortName": "K De Bruyne",
+                  "fullName": "Kevin De Bruyne",
+                  "jersey": "17",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/134947/kevin-de-bruyne",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 2013.0,
+                "displayValue": "34'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "129358",
+                  "displayName": "Kyle Walker",
+                  "shortName": "K Walker",
+                  "fullName": "Kyle Walker",
+                  "jersey": "2",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/129358/kyle-walker",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 2140.0,
+                "displayValue": "36'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "176948",
+                  "displayName": "Ederson",
+                  "shortName": "Ederson",
+                  "fullName": "Ederson",
+                  "jersey": "31",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/176948/ederson",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "G"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "98",
+                "text": "Penalty - Scored"
+              },
+              "clock": {
+                "value": 2488.0,
+                "displayValue": "42'"
+              },
+              "team": {
+                "id": "359"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": true,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "280555",
+                  "displayName": "Bukayo Saka",
+                  "shortName": "B Saka",
+                  "fullName": "Bukayo Saka",
+                  "jersey": "7",
+                  "team": {
+                    "id": "359"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/280555/bukayo-saka",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 2700.0,
+                "displayValue": "45'+2'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "199833",
+                  "displayName": "Bernardo Silva",
+                  "shortName": "B Silva",
+                  "fullName": "Bernardo Silva",
+                  "jersey": "20",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/199833/bernardo-silva",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 2826.0,
+                "displayValue": "48'"
+              },
+              "team": {
+                "id": "359"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "238004",
+                  "displayName": "Takehiro Tomiyasu",
+                  "shortName": "T Tomiyasu",
+                  "fullName": "Takehiro Tomiyasu",
+                  "jersey": "18",
+                  "team": {
+                    "id": "359"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/238004/takehiro-tomiyasu",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 3707.0,
+                "displayValue": "62'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "172850",
+                  "displayName": "Jack Grealish",
+                  "shortName": "J Grealish",
+                  "fullName": "Jack Grealish",
+                  "jersey": "10",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/172850/jack-grealish",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 3813.0,
+                "displayValue": "64'"
+              },
+              "team": {
+                "id": "359"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "259486",
+                  "displayName": "Eddie Nketiah",
+                  "shortName": "E Nketiah",
+                  "fullName": "Eddie Nketiah",
+                  "jersey": "14",
+                  "team": {
+                    "id": "359"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/259486/eddie-nketiah",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 4281.0,
+                "displayValue": "72'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "172850",
+                  "displayName": "Jack Grealish",
+                  "shortName": "J Grealish",
+                  "fullName": "Jack Grealish",
+                  "jersey": "10",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/172850/jack-grealish",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 4870.0,
+                "displayValue": "82'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "253989",
+                  "displayName": "Erling Haaland",
+                  "shortName": "E Haaland",
+                  "fullName": "Erling Haaland",
+                  "jersey": "9",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/253989/erling-haaland",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            }
+          ],
+          "headlines": [
+            {
+              "description": "— Manchester City seized the momentum in the Premier League title race after Jack Grealish and Erling Haaland scored second-half goals to secure a 3-1 win at Arsenal on Wednesday.",
+              "type": "Recap",
+              "shortLinkText": "Man City beats Arsenal to seize momentum in EPL title race"
+            }
+          ],
+          "wasSuspended": false,
+          "playByPlayAvailable": true,
+          "playByPlayAthletes": true
+        }
+      ],
+      "status": {
+        "clock": 5400.0,
+        "displayClock": "90'+6'",
+        "period": 2,
+        "type": {
+          "id": "28",
+          "name": "STATUS_FULL_TIME",
+          "state": "post",
+          "completed": true,
+          "description": "Full Time",
+          "detail": "FT",
+          "shortDetail": "FT"
+        }
+      },
+      "venue": {
+        "displayName": "Emirates Stadium"
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/match/_/gameId/637931/manchester-city-arsenal",
+          "text": "Summary",
+          "shortText": "Summary",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/report/_/gameId/637931",
+          "text": "Report",
+          "shortText": "Report",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/matchstats/_/gameId/637931",
+          "text": "Statistics",
+          "shortText": "Statistics",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        }
+      ]
+    }
+  ]
+}

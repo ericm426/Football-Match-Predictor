@@ -1,1 +1,4006 @@
-{"leagues":[{"id":"700","uid":"s:600~l:700","name":"English Premier League","abbreviation":"Premier League","midsizeName":"ENG.1","slug":"eng.1","season":{"year":2018,"startDate":"2018-06-01T04:00Z","endDate":"2019-06-01T03:59Z","displayName":"2018-19 English Premier League","type":{"id":"1","type":8235,"name":"2018/2019 English Premier League","abbreviation":"2018-2019 English Premier League"}},"logos":[{"href":"https://a.espncdn.com/i/leaguelogos/soccer/500/23.png","width":500,"height":500,"alt":"","rel":["full","default"],"lastUpdated":"2019-05-08T16:07Z"},{"href":"https://a.espncdn.com/i/leaguelogos/soccer/500-dark/23.png","width":500,"height":500,"alt":"","rel":["full","dark"],"lastUpdated":"2021-08-10T20:43Z"}],"calendarType":"day","calendarIsWhitelist":true,"calendarStartDate":"2018-06-01T04:00Z","calendarEndDate":"2019-06-01T03:59Z","calendar":["2018-08-10T07:00Z","2018-08-11T07:00Z","2018-08-12T07:00Z","2018-08-18T07:00Z","2018-08-19T07:00Z","2018-08-20T07:00Z","2018-08-25T07:00Z","2018-08-26T07:00Z","2018-08-27T07:00Z","2018-09-01T07:00Z","2018-09-02T07:00Z","2018-09-15T07:00Z","2018-09-16T07:00Z","2018-09-17T07:00Z","2018-09-22T07:00Z","2018-09-23T07:00Z","2018-09-29T07:00Z","2018-09-30T07:00Z","2018-10-01T07:00Z","2018-10-05T07:00Z","2018-10-06T07:00Z","2018-10-07T07:00Z","2018-10-20T07:00Z","2018-10-21T07:00Z","2018-10-22T07:00Z","2018-10-27T07:00Z","2018-10-28T07:00Z","2018-10-29T07:00Z","2018-11-03T07:00Z","2018-11-04T07:00Z","2018-11-05T08:00Z","2018-11-10T08:00Z","2018-11-11T08:00Z","2018-11-24T08:00Z","2018-11-25T08:00Z","2018-11-26T08:00Z","2018-11-30T08:00Z","2018-12-01T08:00Z","2018-12-02T08:00Z","2018-12-04T08:00Z","2018-12-05T08:00Z","2018-12-08T08:00Z","2018-12-09T08:00Z","2018-12-10T08:00Z","2018-12-15T08:00Z","2018-12-16T08:00Z","2018-12-21T08:00Z","2018-12-22T08:00Z","2018-12-23T08:00Z","2018-12-26T08:00Z","2018-12-27T08:00Z","2018-12-29T08:00Z","2018-12-30T08:00Z","2019-01-01T08:00Z","2019-01-02T08:00Z","2019-01-03T08:00Z","2019-01-12T08:00Z","2019-01-13T08:00Z","2019-01-14T08:00Z","2019-01-19T08:00Z","2019-01-20T08:00Z","2019-01-29T08:00Z","2019-01-30T08:00Z","2019-02-02T08:00Z","2019-02-03T08:00Z","2019-02-04T08:00Z","2019-02-06T08:00Z","2019-02-09T08:00Z","2019-02-10T08:00Z","2019-02-11T08:00Z","2019-02-22T08:00Z","2019-02-23T08:00Z","2019-02-24T08:00Z","2019-02-26T08:00Z","2019-02-27T08:00Z","2019-03-02T08:00Z","2019-03-03T08:00Z","2019-03-09T08:00Z","2019-03-10T08:00Z","2019-03-16T07:00Z","2019-03-17T07:00Z","2019-03-30T07:00Z","2019-03-31T07:00Z","2019-04-01T07:00Z","2019-04-02T07:00Z","2019-04-03T07:00Z","2019-04-05T07:00Z","2019-04-06T07:00Z","2019-04-07T07:00Z","2019-04-08T07:00Z","2019-04-12T07:00Z","2019-04-13T07:00Z","2019-04-14T07:00Z","2019-04-15T07:00Z","2019-04-16T07:00Z","2019-04-20T07:00Z","2019-04-21T07:00Z","2019-04-22T07:00Z","2019-04-23T07:00Z","2019-04-24T07:00Z","2019-04-26T07:00Z","2019-04-27T07:00Z","2019-04-28T07:00Z","2019-05-03T07:00Z","2019-05-04T07:00Z","2019-05-05T07:00Z","2019-05-06T07:00Z","2019-05-12T07:00Z"]}],"events":[{"id":"513817","uid":"s:600~l:700~e:513817","date":"2018-08-25T11:30Z","name":"Manchester City at Wolverhampton Wanderers","shortName":"MNC @ WOL","season":{"year":2018,"type":8235,"slug":"20182019-english-premier-league"},"competitions":[{"id":"513817","uid":"s:600~l:700~e:513817~c:513817","date":"2018-08-25T11:30Z","startDate":"2018-08-25T11:30Z","attendance":31322,"timeValid":true,"recent":false,"status":{"clock":5400.0,"displayClock":"90'+6'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"id":"136","fullName":"Molineux Stadium","address":{"city":"Wolverhampton","country":"England"}},"format":{"regulation":{"periods":2}},"notes":[],"geoBroadcasts":[],"broadcasts":[],"broadcast":"","competitors":[{"id":"380","uid":"s:600~t:380","type":"team","order":0,"homeAway":"home","winner":false,"form":"DLLLW","score":"1","records":[{"name":"All Splits","type":"total","summary":"0-2-1","abbreviation":"Total"}],"team":{"id":"380","uid":"s:600~t:380","abbreviation":"WOL","displayName":"Wolverhampton Wanderers","shortDisplayName":"Wolves","name":"Wolverhampton Wanderers","location":"Wolverhampton Wanderers","color":"fdb913","alternateColor":"cd1937","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/380.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/380/wolverhampton-wanderers","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/380/wolverhampton-wanderers","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/380/wolverhampton-wanderers","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/380/wolverhampton-wanderers","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"136"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"13"},{"name":"wonCorners","abbreviation":"CW","displayValue":"5"},{"name":"goalAssists","abbreviation":"A","displayValue":"1"},{"name":"possessionPct","abbreviation":"PP","displayValue":"28.9"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"9"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"2"},{"name":"totalGoals","abbreviation":"G","displayValue":"1"},{"name":"totalShots","abbreviation":"SH","displayValue":"11"}]},{"id":"382","uid":"s:600~t:382","type":"team","order":1,"homeAway":"away","winner":false,"form":"WWWWL","score":"1","records":[{"name":"All Splits","type":"total","summary":"2-1-0","abbreviation":"Total"}],"team":{"id":"382","uid":"s:600~t:382","abbreviation":"MNC","displayName":"Manchester City","shortDisplayName":"Man City","name":"Manchester City","location":"Manchester City","color":"99c5ea","alternateColor":"e6ff00","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/382.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/382/manchester-city","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/382/manchester-city","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/382/manchester-city","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/382/manchester-city","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"2022"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"8"},{"name":"wonCorners","abbreviation":"CW","displayValue":"9"},{"name":"goalAssists","abbreviation":"A","displayValue":"1"},{"name":"possessionPct","abbreviation":"PP","displayValue":"71.1"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"11"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"6"},{"name":"totalGoals","abbreviation":"G","displayValue":"1"},{"name":"totalShots","abbreviation":"SH","displayValue":"18"}]}],"details":[{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":669.0,"displayValue":"12'"},"team":{"id":"382"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"72935","displayName":"Vincent Kompany","shortName":"V Kompany","fullName":"Vincent Kompany","jersey":"4","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/72935/vincent-kompany","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":2460.0,"displayValue":"41'"},"team":{"id":"380"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"156365","displayName":"Conor Coady","shortName":"C Coady","fullName":"Conor Coady","jersey":"16","team":{"id":"380"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/156365/conor-coady","isHidden":false}],"position":"D"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":3387.0,"displayValue":"57'"},"team":{"id":"380"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"152349","displayName":"Willy Boly","shortName":"W Boly","fullName":"Willy Boly","jersey":"15","team":{"id":"380"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/152349/willy-boly","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":3543.0,"displayValue":"60'"},"team":{"id":"382"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"43815","displayName":"David Silva","shortName":"D Silva","fullName":"David Silva","jersey":"21","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/43815/david-silva","isHidden":false}],"position":"M"}]},{"type":{"id":"137","text":"Goal - Header"},"clock":{"value":4090.0,"displayValue":"69'"},"team":{"id":"382"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"159317","displayName":"Aymeric Laporte","shortName":"A Laporte","fullName":"Aymeric Laporte","jersey":"14","team":{"id":"382"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/159317/aymeric-laporte","isHidden":false}],"position":"D"}]}],"headlines":[{"description":"Premier League","type":"Recap","shortLinkText":"Manchester City held to 1-1 draw at Wolves"}],"wasSuspended":false,"playByPlayAvailable":true,"playByPlayAthletes":true}],"status":{"clock":5400.0,"displayClock":"90'+6'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"displayName":"Molineux Stadium"},"links":[{"language":"en-US","rel":["summary","desktop","event"],"href":"https://www.espn.com/soccer/match/_/gameId/513817/manchester-city-wolverhampton-wanderers","text":"Summary","shortText":"Summary","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["recap","desktop","event"],"href":"https://www.espn.com/soccer/report/_/gameId/513817","text":"Report","shortText":"Report","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["stats","desktop","event"],"href":"https://www.espn.com/soccer/matchstats/_/gameId/513817","text":"Statistics","shortText":"Statistics","isExternal":false,"isPremium":false,"isHidden":false}]},{"id":"513815","uid":"s:600~l:700~e:513815","date":"2018-08-25T14:00Z","name":"Everton at AFC Bournemouth","shortName":"EVE @ BOU","season":{"year":2018,"type":8235,"slug":"20182019-english-premier-league"},"competitions":[{"id":"513815","uid":"s:600~l:700~e:513815~c:513815","date":"2018-08-25T14:00Z","startDate":"2018-08-25T14:00Z","attendance":10654,"timeValid":true,"recent":false,"status":{"clock":5400.0,"displayClock":"90'+13'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"id":"6020","fullName":"Vitality Stadium","address":{"city":"Bournemouth","country":"England"}},"format":{"regulation":{"periods":2}},"notes":[],"geoBroadcasts":[],"broadcasts":[],"broadcast":"","competitors":[{"id":"349","uid":"s:600~t:349","type":"team","order":0,"homeAway":"home","winner":false,"form":"WLLWD","score":"2","records":[{"name":"All Splits","type":"total","summary":"2-1-0","abbreviation":"Total"}],"team":{"id":"349","uid":"s:600~t:349","abbreviation":"BOU","displayName":"AFC Bournemouth","shortDisplayName":"Bournemouth","name":"AFC Bournemouth","location":"AFC Bournemouth","color":"f42727","alternateColor":"ffffff","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/349.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/349/afc-bournemouth","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/349/afc-bournemouth","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/349/afc-bournemouth","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/349/afc-bournemouth","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"6020"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"12"},{"name":"wonCorners","abbreviation":"CW","displayValue":"6"},{"name":"goalAssists","abbreviation":"A","displayValue":"0"},{"name":"possessionPct","abbreviation":"PP","displayValue":"49.9"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"12"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"5"},{"name":"totalGoals","abbreviation":"G","displayValue":"2"},{"name":"totalShots","abbreviation":"SH","displayValue":"17"}]},{"id":"368","uid":"s:600~t:368","type":"team","order":1,"homeAway":"away","winner":false,"form":"WWWDL","score":"2","records":[{"name":"All Splits","type":"total","summary":"1-2-0","abbreviation":"Total"}],"team":{"id":"368","uid":"s:600~t:368","abbreviation":"EVE","displayName":"Everton","shortDisplayName":"Everton","name":"Everton","location":"Everton","color":"0606fa","alternateColor":"132257","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/368.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/368/everton","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/368/everton","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/368/everton","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/368/everton","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"253"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"10"},{"name":"wonCorners","abbreviation":"CW","displayValue":"2"},{"name":"goalAssists","abbreviation":"A","displayValue":"2"},{"name":"possessionPct","abbreviation":"PP","displayValue":"50.1"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"9"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"3"},{"name":"totalGoals","abbreviation":"G","displayValue":"2"},{"name":"totalShots","abbreviation":"SH","displayValue":"11"}]}],"details":[{"type":{"id":"93","text":"Red Card"},"clock":{"value":2427.0,"displayValue":"41'"},"team":{"id":"368"},"scoreValue":0,"scoringPlay":false,"redCard":true,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"156799","displayName":"Richarlison","shortName":"Richarlison","fullName":"Richarlison","jersey":"30","team":{"id":"368"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/156799/richarlison","isHidden":false}],"position":"F"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":3268.0,"displayValue":"55'"},"team":{"id":"368"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"121910","displayName":"Gylfi Sigurdsson","shortName":"G Sigurdsson","fullName":"Gylfi Sigurdsson","jersey":"10","team":{"id":"368"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/121910/gylfi-sigurdsson","isHidden":false}],"position":"M"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":3324.0,"displayValue":"56'"},"team":{"id":"368"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"67507","displayName":"Theo Walcott","shortName":"T Walcott","fullName":"Theo Walcott","jersey":"11","team":{"id":"368"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/67507/theo-walcott","isHidden":false}],"position":"F"}]},{"type":{"id":"93","text":"Red Card"},"clock":{"value":3646.0,"displayValue":"61'"},"team":{"id":"349"},"scoreValue":0,"scoringPlay":false,"redCard":true,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"122268","displayName":"Adam Smith","shortName":"A Smith","fullName":"Adam Smith","jersey":"15","team":{"id":"349"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/122268/adam-smith","isHidden":false}],"position":"D"}]},{"type":{"id":"137","text":"Goal - Header"},"clock":{"value":3901.0,"displayValue":"66'"},"team":{"id":"368"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"4946","displayName":"Michael Keane","shortName":"M Keane","fullName":"Michael Keane","jersey":"4","team":{"id":"368"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/4946/michael-keane","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":4159.0,"displayValue":"70'"},"team":{"id":"368"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"136585","displayName":"Cenk Tosun","shortName":"C Tosun","fullName":"Cenk Tosun","jersey":"14","team":{"id":"368"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/136585/cenk-tosun","isHidden":false}],"position":"F"}]},{"type":{"id":"98","text":"Penalty - Scored"},"clock":{"value":4471.0,"displayValue":"75'"},"team":{"id":"349"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":true,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"141188","displayName":"Josh King","shortName":"J King","fullName":"Josh King","jersey":"17","team":{"id":"349"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/141188/josh-king","isHidden":false}],"position":"M"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":4735.0,"displayValue":"79'"},"team":{"id":"349"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"159248","displayName":"Nathan Aké","shortName":"N Aké","fullName":"Nathan Aké","jersey":"5","team":{"id":"349"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/159248/nathan-ake","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":4822.0,"displayValue":"81'"},"team":{"id":"368"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"144517","displayName":"Idrissa Gueye","shortName":"I Gueye","fullName":"Idrissa Gueye","jersey":"17","team":{"id":"368"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/144517/idrissa-gueye","isHidden":false}],"position":"M"}]}],"headlines":[{"description":"Bournemouth fought back from two goals down to earn a 2-2 draw with Everton as both teams ended with 10 men.","type":"Recap","shortLinkText":"Richarlison sees red, Everton held by Bournemouth"}],"wasSuspended":false,"playByPlayAvailable":true,"playByPlayAthletes":true}],"status":{"clock":5400.0,"displayClock":"90'+13'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"displayName":"Vitality Stadium"},"links":[{"language":"en-US","rel":["summary","desktop","event"],"href":"https://www.espn.com/soccer/match/_/gameId/513815/everton-afc-bournemouth","text":"Summary","shortText":"Summary","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["recap","desktop","event"],"href":"https://www.espn.com/soccer/report/_/gameId/513815","text":"Report","shortText":"Report","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["stats","desktop","event"],"href":"https://www.espn.com/soccer/matchstats/_/gameId/513815","text":"Statistics","shortText":"Statistics","isExternal":false,"isPremium":false,"isHidden":false}]},{"id":"513819","uid":"s:600~l:700~e:513819","date":"2018-08-25T14:00Z","name":"West Ham United at Arsenal","shortName":"WHU @ ARS","season":{"year":2018,"type":8235,"slug":"20182019-english-premier-league"},"competitions":[{"id":"513819","uid":"s:600~l:700~e:513819~c:513819","date":"2018-08-25T14:00Z","startDate":"2018-08-25T14:00Z","attendance":59830,"timeValid":true,"recent":false,"status":{"clock":5400.0,"displayClock":"90'+5'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"id":"2267","fullName":"Emirates Stadium","address":{"city":"London","country":"England"}},"format":{"regulation":{"periods":2}},"notes":[],"geoBroadcasts":[],"broadcasts":[],"broadcast":"","competitors":[{"id":"359","uid":"s:600~t:359","type":"team","order":0,"homeAway":"home","winner":true,"form":"WWDLL","score":"3","records":[{"name":"All Splits","type":"total","summary":"1-0-2","abbreviation":"Total"}],"team":{"id":"359","uid":"s:600~t:359","abbreviation":"ARS","displayName":"Arsenal","shortDisplayName":"Arsenal","name":"Arsenal","location":"Arsenal","color":"e20520","alternateColor":"132257","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/359.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/359/arsenal","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/359/arsenal","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/359/arsenal","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/359/arsenal","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"2267"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"16"},{"name":"wonCorners","abbreviation":"CW","displayValue":"7"},{"name":"goalAssists","abbreviation":"A","displayValue":"2"},{"name":"possessionPct","abbreviation":"PP","displayValue":"61.5"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"14"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"10"},{"name":"totalGoals","abbreviation":"G","displayValue":"3"},{"name":"totalShots","abbreviation":"SH","displayValue":"17"}]},{"id":"371","uid":"s:600~t:371","type":"team","order":1,"homeAway":"away","winner":false,"form":"WLWDL","score":"1","records":[{"name":"All Splits","type":"total","summary":"0-0-3","abbreviation":"Total"}],"team":{"id":"371","uid":"s:600~t:371","abbreviation":"WHU","displayName":"West Ham United","shortDisplayName":"West Ham","name":"West Ham United","location":"West Ham United","color":"7c2c3b","alternateColor":"000000","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/371.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/371/west-ham-united","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/371/west-ham-united","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/371/west-ham-united","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/371/west-ham-united","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"6660"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"13"},{"name":"wonCorners","abbreviation":"CW","displayValue":"2"},{"name":"goalAssists","abbreviation":"A","displayValue":"1"},{"name":"possessionPct","abbreviation":"PP","displayValue":"38.5"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"11"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"5"},{"name":"totalGoals","abbreviation":"G","displayValue":"1"},{"name":"totalShots","abbreviation":"SH","displayValue":"13"}]}],"details":[{"type":{"id":"70","text":"Goal"},"clock":{"value":1489.0,"displayValue":"25'"},"team":{"id":"371"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"98193","displayName":"Marko Arnautovic","shortName":"M Arnautovic","fullName":"Marko Arnautovic","jersey":"7","team":{"id":"371"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/98193/marko-arnautovic","isHidden":false}],"position":"F"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":1769.0,"displayValue":"30'"},"team":{"id":"359"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"85361","displayName":"Nacho Monreal","shortName":"N Monreal","fullName":"Nacho Monreal","jersey":"18","team":{"id":"359"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/85361/nacho-monreal","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":2414.0,"displayValue":"41'"},"team":{"id":"371"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"230963","displayName":"Issa Diop","shortName":"I Diop","fullName":"Issa Diop","jersey":"23","team":{"id":"371"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/230963/issa-diop","isHidden":false}],"position":"D"}]},{"type":{"id":"97","text":"Own Goal"},"clock":{"value":4173.0,"displayValue":"70'"},"team":{"id":"359"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":true,"shootout":false,"athletesInvolved":[{"id":"230963","displayName":"Issa Diop","shortName":"I Diop","fullName":"Issa Diop","jersey":"23","team":{"id":"371"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/230963/issa-diop","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":4767.0,"displayValue":"80'"},"team":{"id":"371"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"144751","displayName":"Ryan Fredericks","shortName":"R Fredericks","fullName":"Ryan Fredericks","jersey":"24","team":{"id":"371"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/144751/ryan-fredericks","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":5264.0,"displayValue":"88'"},"team":{"id":"371"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"122089","displayName":"Jack Wilshere","shortName":"J Wilshere","fullName":"Jack Wilshere","jersey":"19","team":{"id":"371"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/122089/jack-wilshere","isHidden":false}],"position":"M"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":5362.0,"displayValue":"90'"},"team":{"id":"359"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"86377","displayName":"Sokratis Papastathopoulos","shortName":"S Papastathopoulos","fullName":"Sokratis Papastathopoulos","jersey":"5","team":{"id":"359"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/86377/sokratis-papastathopoulos","isHidden":false}],"position":"D"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":5400.0,"displayValue":"90'+2'"},"team":{"id":"359"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"115271","displayName":"Danny Welbeck","shortName":"D Welbeck","fullName":"Danny Welbeck","jersey":"23","team":{"id":"359"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/115271/danny-welbeck","isHidden":false}],"position":"F"}]}],"headlines":[{"description":"Arsenal celebrated their first Premier League win of the season under new manager Unai Emery after coming from behind to beat West Ham.","type":"Recap","shortLinkText":"Emery gets first Arsenal win, 3-1 vs. West Ham"}],"wasSuspended":false,"playByPlayAvailable":true,"playByPlayAthletes":true}],"status":{"clock":5400.0,"displayClock":"90'+5'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"displayName":"Emirates Stadium"},"links":[{"language":"en-US","rel":["summary","desktop","event"],"href":"https://www.espn.com/soccer/match/_/gameId/513819/west-ham-united-arsenal","text":"Summary","shortText":"Summary","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["recap","desktop","event"],"href":"https://www.espn.com/soccer/report/_/gameId/513819","text":"Report","shortText":"Report","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["stats","desktop","event"],"href":"https://www.espn.com/soccer/matchstats/_/gameId/513819","text":"Statistics","shortText":"Statistics","isExternal":false,"isPremium":false,"isHidden":false}]},{"id":"513812","uid":"s:600~l:700~e:513812","date":"2018-08-25T14:00Z","name":"Cardiff City at Huddersfield Town","shortName":"CAR @ HUD","season":{"year":2018,"type":8235,"slug":"20182019-english-premier-league"},"competitions":[{"id":"513812","uid":"s:600~l:700~e:513812~c:513812","date":"2018-08-25T14:00Z","startDate":"2018-08-25T14:00Z","attendance":21193,"timeValid":true,"recent":false,"status":{"clock":5400.0,"displayClock":"90'+4'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"id":"4974","fullName":"John Smith's Stadium","address":{"city":"Huddersfield","country":"England"}},"format":{"regulation":{"periods":2}},"notes":[],"geoBroadcasts":[],"broadcasts":[],"broadcast":"","competitors":[{"id":"335","uid":"s:600~t:335","type":"team","order":0,"homeAway":"home","winner":false,"form":"LLLLL","score":"0","records":[{"name":"All Splits","type":"total","summary":"0-1-2","abbreviation":"Total"}],"team":{"id":"335","uid":"s:600~t:335","abbreviation":"HUD","displayName":"Huddersfield Town","shortDisplayName":"Huddersfield","name":"Huddersfield Town","location":"Huddersfield Town","color":"0074d0","alternateColor":"f4e874","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/335.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/335/huddersfield-town","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/335/huddersfield-town","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/335/huddersfield-town","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/335/huddersfield-town","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"4974"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"8"},{"name":"wonCorners","abbreviation":"CW","displayValue":"7"},{"name":"goalAssists","abbreviation":"A","displayValue":"0"},{"name":"possessionPct","abbreviation":"PP","displayValue":"58"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"2"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"1"},{"name":"totalGoals","abbreviation":"G","displayValue":"0"},{"name":"totalShots","abbreviation":"SH","displayValue":"5"}]},{"id":"347","uid":"s:600~t:347","type":"team","order":1,"homeAway":"away","winner":false,"form":"LDDLL","score":"0","records":[{"name":"All Splits","type":"total","summary":"0-2-1","abbreviation":"Total"}],"team":{"id":"347","uid":"s:600~t:347","abbreviation":"CAR","displayName":"Cardiff City","shortDisplayName":"Cardiff","name":"Cardiff City","location":"Cardiff City","color":"0000fa","alternateColor":"c6d4db","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/347.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/347/cardiff-city","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/347/cardiff-city","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/347/cardiff-city","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/347/cardiff-city","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"3893"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"10"},{"name":"wonCorners","abbreviation":"CW","displayValue":"7"},{"name":"goalAssists","abbreviation":"A","displayValue":"0"},{"name":"possessionPct","abbreviation":"PP","displayValue":"42"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"12"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"4"},{"name":"totalGoals","abbreviation":"G","displayValue":"0"},{"name":"totalShots","abbreviation":"SH","displayValue":"14"}]}],"details":[{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":3757.0,"displayValue":"63'"},"team":{"id":"347"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"111019","displayName":"Harry Arter","shortName":"H Arter","fullName":"Harry Arter","jersey":"7","team":{"id":"347"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/111019/harry-arter","isHidden":false}],"position":"M"}]},{"type":{"id":"93","text":"Red Card"},"clock":{"value":3763.0,"displayValue":"63'"},"team":{"id":"335"},"scoreValue":0,"scoringPlay":false,"redCard":true,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"138907","displayName":"Jonathan Hogg","shortName":"J Hogg","fullName":"Jonathan Hogg","jersey":"6","team":{"id":"335"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/138907/jonathan-hogg","isHidden":false}],"position":"M"}]}],"headlines":[{"description":"Huddersfield Town survived Jonathan Hogg's sending off to claim their first Premier League point of the season after a 0-0 draw against Cardiff.","type":"Recap","shortLinkText":"Huddersfield, Cardiff still winless after draw"}],"wasSuspended":false,"playByPlayAvailable":true,"playByPlayAthletes":true}],"status":{"clock":5400.0,"displayClock":"90'+4'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"displayName":"John Smith's Stadium"},"links":[{"language":"en-US","rel":["summary","desktop","event"],"href":"https://www.espn.com/soccer/match/_/gameId/513812/cardiff-city-huddersfield-town","text":"Summary","shortText":"Summary","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["recap","desktop","event"],"href":"https://www.espn.com/soccer/report/_/gameId/513812","text":"Report","shortText":"Report","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["stats","desktop","event"],"href":"https://www.espn.com/soccer/matchstats/_/gameId/513812","text":"Statistics","shortText":"Statistics","isExternal":false,"isPremium":false,"isHidden":false}]},{"id":"513816","uid":"s:600~l:700~e:513816","date":"2018-08-25T14:00Z","name":"Leicester City at Southampton","shortName":"LEI @ SOU","season":{"year":2018,"type":8235,"slug":"20182019-english-premier-league"},"competitions":[{"id":"513816","uid":"s:600~l:700~e:513816~c:513816","date":"2018-08-25T14:00Z","startDate":"2018-08-25T14:00Z","attendance":29925,"timeValid":true,"recent":false,"status":{"clock":5400.0,"displayClock":"90'+6'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"id":"4850","fullName":"St. Mary's Stadium","address":{"city":"Southampton","country":"England"}},"format":{"regulation":{"periods":2}},"notes":[],"geoBroadcasts":[],"broadcasts":[],"broadcast":"","competitors":[{"id":"376","uid":"s:600~t:376","type":"team","order":0,"homeAway":"home","winner":false,"form":"LLDLL","score":"1","records":[{"name":"All Splits","type":"total","summary":"0-1-2","abbreviation":"Total"}],"team":{"id":"376","uid":"s:600~t:376","abbreviation":"SOU","displayName":"Southampton","shortDisplayName":"Southampton","name":"Southampton","location":"Southampton","color":"ED1A3B","alternateColor":"f1ee13","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/376.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/376/southampton","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/376/southampton","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/376/southampton","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/376/southampton","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"10019"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"13"},{"name":"wonCorners","abbreviation":"CW","displayValue":"11"},{"name":"goalAssists","abbreviation":"A","displayValue":"0"},{"name":"possessionPct","abbreviation":"PP","displayValue":"51.7"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"7"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"5"},{"name":"totalGoals","abbreviation":"G","displayValue":"1"},{"name":"totalShots","abbreviation":"SH","displayValue":"11"}]},{"id":"375","uid":"s:600~t:375","type":"team","order":1,"homeAway":"away","winner":true,"form":"LWDWL","score":"2","records":[{"name":"All Splits","type":"total","summary":"2-0-1","abbreviation":"Total"}],"team":{"id":"375","uid":"s:600~t:375","abbreviation":"LEI","displayName":"Leicester City","shortDisplayName":"Leicester","name":"Leicester City","location":"Leicester City","color":"0202fb","alternateColor":"000000","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/375.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/375/leicester-city","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/375/leicester-city","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/375/leicester-city","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/375/leicester-city","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"5774"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"11"},{"name":"wonCorners","abbreviation":"CW","displayValue":"3"},{"name":"goalAssists","abbreviation":"A","displayValue":"1"},{"name":"possessionPct","abbreviation":"PP","displayValue":"48.3"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"5"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"5"},{"name":"totalGoals","abbreviation":"G","displayValue":"2"},{"name":"totalShots","abbreviation":"SH","displayValue":"8"}]}],"details":[{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":1548.0,"displayValue":"26'"},"team":{"id":"376"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"159543","displayName":"Pierre-Emile Højbjerg","shortName":"P Højbjerg","fullName":"Pierre-Emile Højbjerg","jersey":"23","team":{"id":"376"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/159543/pierre-emile-højbjerg","isHidden":false}],"position":"M"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":3090.0,"displayValue":"52'"},"team":{"id":"376"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"91489","displayName":"Ryan Bertrand","shortName":"R Bertrand","fullName":"Ryan Bertrand","jersey":"21","team":{"id":"376"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/91489/ryan-bertrand","isHidden":false}],"position":"D"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":3323.0,"displayValue":"56'"},"team":{"id":"375"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"194403","displayName":"Demarai Gray","shortName":"D Gray","fullName":"Demarai Gray","jersey":"7","team":{"id":"375"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/194403/demarai-gray","isHidden":false}],"position":"F"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":3810.0,"displayValue":"64'"},"team":{"id":"376"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"91489","displayName":"Ryan Bertrand","shortName":"R Bertrand","fullName":"Ryan Bertrand","jersey":"21","team":{"id":"376"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/91489/ryan-bertrand","isHidden":false}],"position":"D"}]},{"type":{"id":"93","text":"Red Card"},"clock":{"value":4591.0,"displayValue":"77'"},"team":{"id":"376"},"scoreValue":0,"scoringPlay":false,"redCard":true,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"159543","displayName":"Pierre-Emile Højbjerg","shortName":"P Højbjerg","fullName":"Pierre-Emile Højbjerg","jersey":"23","team":{"id":"376"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/159543/pierre-emile-højbjerg","isHidden":false}],"position":"M"}]},{"type":{"id":"70","text":"Goal"},"clock":{"value":5400.0,"displayValue":"90'+2'"},"team":{"id":"375"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"157073","displayName":"Harry Maguire","shortName":"H Maguire","fullName":"Harry Maguire","jersey":"15","team":{"id":"375"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/157073/harry-maguire","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":5400.0,"displayValue":"90'+3'"},"team":{"id":"375"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"157073","displayName":"Harry Maguire","shortName":"H Maguire","fullName":"Harry Maguire","jersey":"15","team":{"id":"375"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/157073/harry-maguire","isHidden":false}],"position":"D"}]}],"headlines":[{"description":"Defender Harry Maguire's stoppage-time goal gave Leicester City a hard-fought 2-1 Premier League victory over 10-man Southampton on Saturday.","type":"Recap","shortLinkText":"Leicester win at Saints after Maguire strike"}],"wasSuspended":false,"playByPlayAvailable":true,"playByPlayAthletes":true}],"status":{"clock":5400.0,"displayClock":"90'+6'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"displayName":"St. Mary's Stadium"},"links":[{"language":"en-US","rel":["summary","desktop","event"],"href":"https://www.espn.com/soccer/match/_/gameId/513816/leicester-city-southampton","text":"Summary","shortText":"Summary","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["recap","desktop","event"],"href":"https://www.espn.com/soccer/report/_/gameId/513816","text":"Report","shortText":"Report","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["stats","desktop","event"],"href":"https://www.espn.com/soccer/matchstats/_/gameId/513816","text":"Statistics","shortText":"Statistics","isExternal":false,"isPremium":false,"isHidden":false}]},{"id":"513810","uid":"s:600~l:700~e:513810","date":"2018-08-25T16:30Z","name":"Brighton & Hove Albion at Liverpool","shortName":"BHA @ LIV","season":{"year":2018,"type":8235,"slug":"20182019-english-premier-league"},"competitions":[{"id":"513810","uid":"s:600~l:700~e:513810~c:513810","date":"2018-08-25T16:30Z","startDate":"2018-08-25T16:30Z","attendance":53294,"timeValid":true,"recent":false,"status":{"clock":5400.0,"displayClock":"90'+4'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"id":"192","fullName":"Anfield","address":{"city":"Liverpool","country":"England"}},"format":{"regulation":{"periods":2}},"notes":[],"geoBroadcasts":[],"broadcasts":[],"broadcast":"","competitors":[{"id":"364","uid":"s:600~t:364","type":"team","order":0,"homeAway":"home","winner":true,"form":"DLDLW","score":"1","records":[{"name":"All Splits","type":"total","summary":"3-0-0","abbreviation":"Total"}],"team":{"id":"364","uid":"s:600~t:364","abbreviation":"LIV","displayName":"Liverpool","shortDisplayName":"Liverpool","name":"Liverpool","location":"Liverpool","color":"d11317","alternateColor":"132257","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/364.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/364/liverpool","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/364/liverpool","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/364/liverpool","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/364/liverpool","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"192"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"8"},{"name":"wonCorners","abbreviation":"CW","displayValue":"8"},{"name":"goalAssists","abbreviation":"A","displayValue":"1"},{"name":"possessionPct","abbreviation":"PP","displayValue":"70"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"18"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"8"},{"name":"totalGoals","abbreviation":"G","displayValue":"1"},{"name":"totalShots","abbreviation":"SH","displayValue":"22"}]},{"id":"331","uid":"s:600~t:331","type":"team","order":1,"homeAway":"away","winner":false,"form":"WWWDW","score":"0","records":[{"name":"All Splits","type":"total","summary":"1-0-2","abbreviation":"Total"}],"team":{"id":"331","uid":"s:600~t:331","abbreviation":"BHA","displayName":"Brighton & Hove Albion","shortDisplayName":"Brighton","name":"Brighton & Hove Albion","location":"Brighton & Hove Albion","color":"0606fa","alternateColor":"ffdd00","isActive":true,"logo":"https://a.espncdn.com/i/teamlogos/soccer/500/331.png","links":[{"rel":["clubhouse","desktop","team"],"href":"https://www.espn.com/soccer/club/_/id/331/brighton-hove-albion","text":"Clubhouse","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["stats","desktop","team"],"href":"https://www.espn.com/soccer/team/stats/_/id/331/brighton-hove-albion","text":"Stats","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["schedule","desktop","team"],"href":"https://www.espn.com/soccer/team/fixtures/_/id/331/brighton-hove-albion","text":"Fixtures","isExternal":false,"isPremium":false,"isHidden":false},{"rel":["squad","desktop","team"],"href":"https://www.espn.com/soccer/team/squad/_/id/331/brighton-hove-albion","text":"Squad","isExternal":false,"isPremium":false,"isHidden":false}],"venue":{"id":"4440"}},"statistics":[{"name":"appearances","abbreviation":"APP","displayValue":"0"},{"name":"foulsCommitted","abbreviation":"FC","displayValue":"14"},{"name":"wonCorners","abbreviation":"CW","displayValue":"5"},{"name":"goalAssists","abbreviation":"A","displayValue":"0"},{"name":"possessionPct","abbreviation":"PP","displayValue":"30"},{"name":"shotAssists","abbreviation":"SHAST","displayValue":"4"},{"name":"shotsOnTarget","abbreviation":"ST","displayValue":"2"},{"name":"totalGoals","abbreviation":"G","displayValue":"0"},{"name":"totalShots","abbreviation":"SH","displayValue":"6"}]}],"details":[{"type":{"id":"70","text":"Goal"},"clock":{"value":1323.0,"displayValue":"23'"},"team":{"id":"364"},"scoreValue":1,"scoringPlay":true,"redCard":false,"yellowCard":false,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"173896","displayName":"Mohamed Salah","shortName":"M Salah","fullName":"Mohamed Salah","jersey":"11","team":{"id":"364"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/173896/mohamed-salah","isHidden":false}],"position":"F"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":3577.0,"displayValue":"60'"},"team":{"id":"331"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"121550","displayName":"Leon Balogun","shortName":"L Balogun","fullName":"Leon Balogun","jersey":"14","team":{"id":"331"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/121550/leon-balogun","isHidden":false}],"position":"D"}]},{"type":{"id":"94","text":"Yellow Card"},"clock":{"value":4565.0,"displayValue":"77'"},"team":{"id":"364"},"scoreValue":0,"scoringPlay":false,"redCard":false,"yellowCard":true,"penaltyKick":false,"ownGoal":false,"shootout":false,"athletesInvolved":[{"id":"223532","displayName":"Trent Alexander-Arnold","shortName":"T Alexander-Arnold","fullName":"Trent Alexander-Arnold","jersey":"66","team":{"id":"364"},"links":[{"rel":["playercard","desktop","athlete"],"href":"https://www.espn.com/soccer/player/_/id/223532/trent-alexander-arnold","isHidden":false}],"position":"D"}]}],"headlines":[{"description":"Premier League","type":"Recap","shortLinkText":"Salah scores as Liverpool edge past Brighton"}],"wasSuspended":false,"playByPlayAvailable":true,"playByPlayAthletes":true}],"status":{"clock":5400.0,"displayClock":"90'+4'","period":2,"type":{"id":"28","name":"STATUS_FULL_TIME","state":"post","completed":true,"description":"Full Time","detail":"FT","shortDetail":"FT"}},"venue":{"displayName":"Anfield"},"links":[{"language":"en-US","rel":["summary","desktop","event"],"href":"https://www.espn.com/soccer/match/_/gameId/513810/brighton-hove-albion-liverpool","text":"Summary","shortText":"Summary","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["recap","desktop","event"],"href":"https://www.espn.com/soccer/report/_/gameId/513810","text":"Report","shortText":"Report","isExternal":false,"isPremium":false,"isHidden":false},{"language":"en-US","rel":["stats","desktop","event"],"href":"https://www.espn.com/soccer/matchstats/_/gameId/513810","text":"Statistics","shortText":"Statistics","isExternal":false,"isPremium":false,"isHidden":false}]}]}
+{
+  "leagues": [
+    {
+      "id": "700",
+      "uid": "s:600~l:700",
+      "name": "English Premier League",
+      "abbreviation": "Premier League",
+      "midsizeName": "ENG.1",
+      "slug": "eng.1",
+      "season": {
+        "year": 2018,
+        "startDate": "2018-06-01T04:00Z",
+        "endDate": "2019-06-01T03:59Z",
+        "displayName": "2018-19 English Premier League",
+        "type": {
+          "id": "1",
+          "type": 8235,
+          "name": "2018/2019 English Premier League",
+          "abbreviation": "2018-2019 English Premier League"
+        }
+      },
+      "logos": [
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "lastUpdated": "2019-05-08T16:07Z"
+        },
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500-dark/23.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "lastUpdated": "2021-08-10T20:43Z"
+        }
+      ],
+      "calendarType": "day",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2018-06-01T04:00Z",
+      "calendarEndDate": "2019-06-01T03:59Z",
+      "calendar": [
+        "2018-08-10T07:00Z",
+        "2018-08-11T07:00Z",
+        "2018-08-12T07:00Z",
+        "2018-08-18T07:00Z",
+        "2018-08-19T07:00Z",
+        "2018-08-20T07:00Z",
+        "2018-08-25T07:00Z",
+        "2018-08-26T07:00Z",
+        "2018-08-27T07:00Z",
+        "2018-09-01T07:00Z",
+        "2018-09-02T07:00Z",
+        "2018-09-15T07:00Z",
+        "2018-09-16T07:00Z",
+        "2018-09-17T07:00Z",
+        "2018-09-22T07:00Z",
+        "2018-09-23T07:00Z",
+        "2018-09-29T07:00Z",
+        "2018-09-30T07:00Z",
+        "2018-10-01T07:00Z",
+        "2018-10-05T07:00Z",
+        "2018-10-06T07:00Z",
+        "2018-10-07T07:00Z",
+        "2018-10-20T07:00Z",
+        "2018-10-21T07:00Z",
+        "2018-10-22T07:00Z",
+        "2018-10-27T07:00Z",
+        "2018-10-28T07:00Z",
+        "2018-10-29T07:00Z",
+        "2018-11-03T07:00Z",
+        "2018-11-04T07:00Z",
+        "2018-11-05T08:00Z",
+        "2018-11-10T08:00Z",
+        "2018-11-11T08:00Z",
+        "2018-11-24T08:00Z",
+        "2018-11-25T08:00Z",
+        "2018-11-26T08:00Z",
+        "2018-11-30T08:00Z",
+        "2018-12-01T08:00Z",
+        "2018-12-02T08:00Z",
+        "2018-12-04T08:00Z",
+        "2018-12-05T08:00Z",
+        "2018-12-08T08:00Z",
+        "2018-12-09T08:00Z",
+        "2018-12-10T08:00Z",
+        "2018-12-15T08:00Z",
+        "2018-12-16T08:00Z",
+        "2018-12-21T08:00Z",
+        "2018-12-22T08:00Z",
+        "2018-12-23T08:00Z",
+        "2018-12-26T08:00Z",
+        "2018-12-27T08:00Z",
+        "2018-12-29T08:00Z",
+        "2018-12-30T08:00Z",
+        "2019-01-01T08:00Z",
+        "2019-01-02T08:00Z",
+        "2019-01-03T08:00Z",
+        "2019-01-12T08:00Z",
+        "2019-01-13T08:00Z",
+        "2019-01-14T08:00Z",
+        "2019-01-19T08:00Z",
+        "2019-01-20T08:00Z",
+        "2019-01-29T08:00Z",
+        "2019-01-30T08:00Z",
+        "2019-02-02T08:00Z",
+        "2019-02-03T08:00Z",
+        "2019-02-04T08:00Z",
+        "2019-02-06T08:00Z",
+        "2019-02-09T08:00Z",
+        "2019-02-10T08:00Z",
+        "2019-02-11T08:00Z",
+        "2019-02-22T08:00Z",
+        "2019-02-23T08:00Z",
+        "2019-02-24T08:00Z",
+        "2019-02-26T08:00Z",
+        "2019-02-27T08:00Z",
+        "2019-03-02T08:00Z",
+        "2019-03-03T08:00Z",
+        "2019-03-09T08:00Z",
+        "2019-03-10T08:00Z",
+        "2019-03-16T07:00Z",
+        "2019-03-17T07:00Z",
+        "2019-03-30T07:00Z",
+        "2019-03-31T07:00Z",
+        "2019-04-01T07:00Z",
+        "2019-04-02T07:00Z",
+        "2019-04-03T07:00Z",
+        "2019-04-05T07:00Z",
+        "2019-04-06T07:00Z",
+        "2019-04-07T07:00Z",
+        "2019-04-08T07:00Z",
+        "2019-04-12T07:00Z",
+        "2019-04-13T07:00Z",
+        "2019-04-14T07:00Z",
+        "2019-04-15T07:00Z",
+        "2019-04-16T07:00Z",
+        "2019-04-20T07:00Z",
+        "2019-04-21T07:00Z",
+        "2019-04-22T07:00Z",
+        "2019-04-23T07:00Z",
+        "2019-04-24T07:00Z",
+        "2019-04-26T07:00Z",
+        "2019-04-27T07:00Z",
+        "2019-04-28T07:00Z",
+        "2019-05-03T07:00Z",
+        "2019-05-04T07:00Z",
+        "2019-05-05T07:00Z",
+        "2019-05-06T07:00Z",
+        "2019-05-12T07:00Z"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "513817",
+      "uid": "s:600~l:700~e:513817",
+      "date": "2018-08-25T11:30Z",
+      "name": "Manchester City at Wolverhampton Wanderers",
+      "shortName": "MNC @ WOL",
+      "season": {
+        "year": 2018,
+        "type": 8235,
+        "slug": "20182019-english-premier-league"
+      },
+      "competitions": [
+        {
+          "id": "513817",
+          "uid": "s:600~l:700~e:513817~c:513817",
+          "date": "2018-08-25T11:30Z",
+          "startDate": "2018-08-25T11:30Z",
+          "attendance": 31322,
+          "timeValid": true,
+          "recent": false,
+          "status": {
+            "clock": 5400.0,
+            "displayClock": "90'+6'",
+            "period": 2,
+            "type": {
+              "id": "28",
+              "name": "STATUS_FULL_TIME",
+              "state": "post",
+              "completed": true,
+              "description": "Full Time",
+              "detail": "FT",
+              "shortDetail": "FT"
+            }
+          },
+          "venue": {
+            "id": "136",
+            "fullName": "Molineux Stadium",
+            "address": {
+              "city": "Wolverhampton",
+              "country": "England"
+            }
+          },
+          "format": {
+            "regulation": {
+              "periods": 2
+            }
+          },
+          "notes": [],
+          "geoBroadcasts": [],
+          "broadcasts": [],
+          "broadcast": "",
+          "competitors": [
+            {
+              "id": "380",
+              "uid": "s:600~t:380",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "winner": false,
+              "form": "DLLLW",
+              "score": "1",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "0-2-1",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "380",
+                "uid": "s:600~t:380",
+                "abbreviation": "WOL",
+                "displayName": "Wolverhampton Wanderers",
+                "shortDisplayName": "Wolves",
+                "name": "Wolverhampton Wanderers",
+                "location": "Wolverhampton Wanderers",
+                "color": "fdb913",
+                "alternateColor": "cd1937",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/380/wolverhampton-wanderers",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/380/wolverhampton-wanderers",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/380/wolverhampton-wanderers",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/380/wolverhampton-wanderers",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "136"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "13"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "5"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "28.9"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "9"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "11"
+                }
+              ]
+            },
+            {
+              "id": "382",
+              "uid": "s:600~t:382",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "winner": false,
+              "form": "WWWWL",
+              "score": "1",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "2-1-0",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "382",
+                "uid": "s:600~t:382",
+                "abbreviation": "MNC",
+                "displayName": "Manchester City",
+                "shortDisplayName": "Man City",
+                "name": "Manchester City",
+                "location": "Manchester City",
+                "color": "99c5ea",
+                "alternateColor": "e6ff00",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/382/manchester-city",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/382/manchester-city",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/382/manchester-city",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/382/manchester-city",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "2022"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "8"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "9"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "71.1"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "11"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "6"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "18"
+                }
+              ]
+            }
+          ],
+          "details": [
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 669.0,
+                "displayValue": "12'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "72935",
+                  "displayName": "Vincent Kompany",
+                  "shortName": "V Kompany",
+                  "fullName": "Vincent Kompany",
+                  "jersey": "4",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/72935/vincent-kompany",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 2460.0,
+                "displayValue": "41'"
+              },
+              "team": {
+                "id": "380"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "156365",
+                  "displayName": "Conor Coady",
+                  "shortName": "C Coady",
+                  "fullName": "Conor Coady",
+                  "jersey": "16",
+                  "team": {
+                    "id": "380"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/156365/conor-coady",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 3387.0,
+                "displayValue": "57'"
+              },
+              "team": {
+                "id": "380"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "152349",
+                  "displayName": "Willy Boly",
+                  "shortName": "W Boly",
+                  "fullName": "Willy Boly",
+                  "jersey": "15",
+                  "team": {
+                    "id": "380"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/152349/willy-boly",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 3543.0,
+                "displayValue": "60'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "43815",
+                  "displayName": "David Silva",
+                  "shortName": "D Silva",
+                  "fullName": "David Silva",
+                  "jersey": "21",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/43815/david-silva",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "137",
+                "text": "Goal - Header"
+              },
+              "clock": {
+                "value": 4090.0,
+                "displayValue": "69'"
+              },
+              "team": {
+                "id": "382"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "159317",
+                  "displayName": "Aymeric Laporte",
+                  "shortName": "A Laporte",
+                  "fullName": "Aymeric Laporte",
+                  "jersey": "14",
+                  "team": {
+                    "id": "382"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/159317/aymeric-laporte",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            }
+          ],
+          "headlines": [
+            {
+              "description": "Premier League",
+              "type": "Recap",
+              "shortLinkText": "Manchester City held to 1-1 draw at Wolves"
+            }
+          ],
+          "wasSuspended": false,
+          "playByPlayAvailable": true,
+          "playByPlayAthletes": true
+        }
+      ],
+      "status": {
+        "clock": 5400.0,
+        "displayClock": "90'+6'",
+        "period": 2,
+        "type": {
+          "id": "28",
+          "name": "STATUS_FULL_TIME",
+          "state": "post",
+          "completed": true,
+          "description": "Full Time",
+          "detail": "FT",
+          "shortDetail": "FT"
+        }
+      },
+      "venue": {
+        "displayName": "Molineux Stadium"
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/match/_/gameId/513817/manchester-city-wolverhampton-wanderers",
+          "text": "Summary",
+          "shortText": "Summary",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/report/_/gameId/513817",
+          "text": "Report",
+          "shortText": "Report",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/matchstats/_/gameId/513817",
+          "text": "Statistics",
+          "shortText": "Statistics",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        }
+      ]
+    },
+    {
+      "id": "513815",
+      "uid": "s:600~l:700~e:513815",
+      "date": "2018-08-25T14:00Z",
+      "name": "Everton at AFC Bournemouth",
+      "shortName": "EVE @ BOU",
+      "season": {
+        "year": 2018,
+        "type": 8235,
+        "slug": "20182019-english-premier-league"
+      },
+      "competitions": [
+        {
+          "id": "513815",
+          "uid": "s:600~l:700~e:513815~c:513815",
+          "date": "2018-08-25T14:00Z",
+          "startDate": "2018-08-25T14:00Z",
+          "attendance": 10654,
+          "timeValid": true,
+          "recent": false,
+          "status": {
+            "clock": 5400.0,
+            "displayClock": "90'+13'",
+            "period": 2,
+            "type": {
+              "id": "28",
+              "name": "STATUS_FULL_TIME",
+              "state": "post",
+              "completed": true,
+              "description": "Full Time",
+              "detail": "FT",
+              "shortDetail": "FT"
+            }
+          },
+          "venue": {
+            "id": "6020",
+            "fullName": "Vitality Stadium",
+            "address": {
+              "city": "Bournemouth",
+              "country": "England"
+            }
+          },
+          "format": {
+            "regulation": {
+              "periods": 2
+            }
+          },
+          "notes": [],
+          "geoBroadcasts": [],
+          "broadcasts": [],
+          "broadcast": "",
+          "competitors": [
+            {
+              "id": "349",
+              "uid": "s:600~t:349",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "winner": false,
+              "form": "WLLWD",
+              "score": "2",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "2-1-0",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "349",
+                "uid": "s:600~t:349",
+                "abbreviation": "BOU",
+                "displayName": "AFC Bournemouth",
+                "shortDisplayName": "Bournemouth",
+                "name": "AFC Bournemouth",
+                "location": "AFC Bournemouth",
+                "color": "f42727",
+                "alternateColor": "ffffff",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/349/afc-bournemouth",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/349/afc-bournemouth",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/349/afc-bournemouth",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/349/afc-bournemouth",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "6020"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "12"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "6"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "49.9"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "12"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "5"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "17"
+                }
+              ]
+            },
+            {
+              "id": "368",
+              "uid": "s:600~t:368",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "winner": false,
+              "form": "WWWDL",
+              "score": "2",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "1-2-0",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "368",
+                "uid": "s:600~t:368",
+                "abbreviation": "EVE",
+                "displayName": "Everton",
+                "shortDisplayName": "Everton",
+                "name": "Everton",
+                "location": "Everton",
+                "color": "0606fa",
+                "alternateColor": "132257",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/368/everton",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/368/everton",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/368/everton",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/368/everton",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "253"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "10"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "50.1"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "9"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "3"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "11"
+                }
+              ]
+            }
+          ],
+          "details": [
+            {
+              "type": {
+                "id": "93",
+                "text": "Red Card"
+              },
+              "clock": {
+                "value": 2427.0,
+                "displayValue": "41'"
+              },
+              "team": {
+                "id": "368"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": true,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "156799",
+                  "displayName": "Richarlison",
+                  "shortName": "Richarlison",
+                  "fullName": "Richarlison",
+                  "jersey": "30",
+                  "team": {
+                    "id": "368"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/156799/richarlison",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 3268.0,
+                "displayValue": "55'"
+              },
+              "team": {
+                "id": "368"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "121910",
+                  "displayName": "Gylfi Sigurdsson",
+                  "shortName": "G Sigurdsson",
+                  "fullName": "Gylfi Sigurdsson",
+                  "jersey": "10",
+                  "team": {
+                    "id": "368"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/121910/gylfi-sigurdsson",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 3324.0,
+                "displayValue": "56'"
+              },
+              "team": {
+                "id": "368"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "67507",
+                  "displayName": "Theo Walcott",
+                  "shortName": "T Walcott",
+                  "fullName": "Theo Walcott",
+                  "jersey": "11",
+                  "team": {
+                    "id": "368"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/67507/theo-walcott",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "93",
+                "text": "Red Card"
+              },
+              "clock": {
+                "value": 3646.0,
+                "displayValue": "61'"
+              },
+              "team": {
+                "id": "349"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": true,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "122268",
+                  "displayName": "Adam Smith",
+                  "shortName": "A Smith",
+                  "fullName": "Adam Smith",
+                  "jersey": "15",
+                  "team": {
+                    "id": "349"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/122268/adam-smith",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "137",
+                "text": "Goal - Header"
+              },
+              "clock": {
+                "value": 3901.0,
+                "displayValue": "66'"
+              },
+              "team": {
+                "id": "368"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "4946",
+                  "displayName": "Michael Keane",
+                  "shortName": "M Keane",
+                  "fullName": "Michael Keane",
+                  "jersey": "4",
+                  "team": {
+                    "id": "368"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/4946/michael-keane",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 4159.0,
+                "displayValue": "70'"
+              },
+              "team": {
+                "id": "368"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "136585",
+                  "displayName": "Cenk Tosun",
+                  "shortName": "C Tosun",
+                  "fullName": "Cenk Tosun",
+                  "jersey": "14",
+                  "team": {
+                    "id": "368"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/136585/cenk-tosun",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "98",
+                "text": "Penalty - Scored"
+              },
+              "clock": {
+                "value": 4471.0,
+                "displayValue": "75'"
+              },
+              "team": {
+                "id": "349"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": true,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "141188",
+                  "displayName": "Josh King",
+                  "shortName": "J King",
+                  "fullName": "Josh King",
+                  "jersey": "17",
+                  "team": {
+                    "id": "349"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/141188/josh-king",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 4735.0,
+                "displayValue": "79'"
+              },
+              "team": {
+                "id": "349"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "159248",
+                  "displayName": "Nathan Aké",
+                  "shortName": "N Aké",
+                  "fullName": "Nathan Aké",
+                  "jersey": "5",
+                  "team": {
+                    "id": "349"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/159248/nathan-ake",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 4822.0,
+                "displayValue": "81'"
+              },
+              "team": {
+                "id": "368"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "144517",
+                  "displayName": "Idrissa Gueye",
+                  "shortName": "I Gueye",
+                  "fullName": "Idrissa Gueye",
+                  "jersey": "17",
+                  "team": {
+                    "id": "368"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/144517/idrissa-gueye",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            }
+          ],
+          "headlines": [
+            {
+              "description": "Bournemouth fought back from two goals down to earn a 2-2 draw with Everton as both teams ended with 10 men.",
+              "type": "Recap",
+              "shortLinkText": "Richarlison sees red, Everton held by Bournemouth"
+            }
+          ],
+          "wasSuspended": false,
+          "playByPlayAvailable": true,
+          "playByPlayAthletes": true
+        }
+      ],
+      "status": {
+        "clock": 5400.0,
+        "displayClock": "90'+13'",
+        "period": 2,
+        "type": {
+          "id": "28",
+          "name": "STATUS_FULL_TIME",
+          "state": "post",
+          "completed": true,
+          "description": "Full Time",
+          "detail": "FT",
+          "shortDetail": "FT"
+        }
+      },
+      "venue": {
+        "displayName": "Vitality Stadium"
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/match/_/gameId/513815/everton-afc-bournemouth",
+          "text": "Summary",
+          "shortText": "Summary",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/report/_/gameId/513815",
+          "text": "Report",
+          "shortText": "Report",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/matchstats/_/gameId/513815",
+          "text": "Statistics",
+          "shortText": "Statistics",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        }
+      ]
+    },
+    {
+      "id": "513819",
+      "uid": "s:600~l:700~e:513819",
+      "date": "2018-08-25T14:00Z",
+      "name": "West Ham United at Arsenal",
+      "shortName": "WHU @ ARS",
+      "season": {
+        "year": 2018,
+        "type": 8235,
+        "slug": "20182019-english-premier-league"
+      },
+      "competitions": [
+        {
+          "id": "513819",
+          "uid": "s:600~l:700~e:513819~c:513819",
+          "date": "2018-08-25T14:00Z",
+          "startDate": "2018-08-25T14:00Z",
+          "attendance": 59830,
+          "timeValid": true,
+          "recent": false,
+          "status": {
+            "clock": 5400.0,
+            "displayClock": "90'+5'",
+            "period": 2,
+            "type": {
+              "id": "28",
+              "name": "STATUS_FULL_TIME",
+              "state": "post",
+              "completed": true,
+              "description": "Full Time",
+              "detail": "FT",
+              "shortDetail": "FT"
+            }
+          },
+          "venue": {
+            "id": "2267",
+            "fullName": "Emirates Stadium",
+            "address": {
+              "city": "London",
+              "country": "England"
+            }
+          },
+          "format": {
+            "regulation": {
+              "periods": 2
+            }
+          },
+          "notes": [],
+          "geoBroadcasts": [],
+          "broadcasts": [],
+          "broadcast": "",
+          "competitors": [
+            {
+              "id": "359",
+              "uid": "s:600~t:359",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "winner": true,
+              "form": "WWDLL",
+              "score": "3",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "1-0-2",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "359",
+                "uid": "s:600~t:359",
+                "abbreviation": "ARS",
+                "displayName": "Arsenal",
+                "shortDisplayName": "Arsenal",
+                "name": "Arsenal",
+                "location": "Arsenal",
+                "color": "e20520",
+                "alternateColor": "132257",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/359/arsenal",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/359/arsenal",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/359/arsenal",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/359/arsenal",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "2267"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "16"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "7"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "61.5"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "14"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "10"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "3"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "17"
+                }
+              ]
+            },
+            {
+              "id": "371",
+              "uid": "s:600~t:371",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "winner": false,
+              "form": "WLWDL",
+              "score": "1",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "0-0-3",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "371",
+                "uid": "s:600~t:371",
+                "abbreviation": "WHU",
+                "displayName": "West Ham United",
+                "shortDisplayName": "West Ham",
+                "name": "West Ham United",
+                "location": "West Ham United",
+                "color": "7c2c3b",
+                "alternateColor": "000000",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/371/west-ham-united",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/371/west-ham-united",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/371/west-ham-united",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/371/west-ham-united",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "6660"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "13"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "38.5"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "11"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "5"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "13"
+                }
+              ]
+            }
+          ],
+          "details": [
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 1489.0,
+                "displayValue": "25'"
+              },
+              "team": {
+                "id": "371"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "98193",
+                  "displayName": "Marko Arnautovic",
+                  "shortName": "M Arnautovic",
+                  "fullName": "Marko Arnautovic",
+                  "jersey": "7",
+                  "team": {
+                    "id": "371"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/98193/marko-arnautovic",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 1769.0,
+                "displayValue": "30'"
+              },
+              "team": {
+                "id": "359"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "85361",
+                  "displayName": "Nacho Monreal",
+                  "shortName": "N Monreal",
+                  "fullName": "Nacho Monreal",
+                  "jersey": "18",
+                  "team": {
+                    "id": "359"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/85361/nacho-monreal",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 2414.0,
+                "displayValue": "41'"
+              },
+              "team": {
+                "id": "371"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "230963",
+                  "displayName": "Issa Diop",
+                  "shortName": "I Diop",
+                  "fullName": "Issa Diop",
+                  "jersey": "23",
+                  "team": {
+                    "id": "371"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/230963/issa-diop",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "97",
+                "text": "Own Goal"
+              },
+              "clock": {
+                "value": 4173.0,
+                "displayValue": "70'"
+              },
+              "team": {
+                "id": "359"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": true,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "230963",
+                  "displayName": "Issa Diop",
+                  "shortName": "I Diop",
+                  "fullName": "Issa Diop",
+                  "jersey": "23",
+                  "team": {
+                    "id": "371"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/230963/issa-diop",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 4767.0,
+                "displayValue": "80'"
+              },
+              "team": {
+                "id": "371"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "144751",
+                  "displayName": "Ryan Fredericks",
+                  "shortName": "R Fredericks",
+                  "fullName": "Ryan Fredericks",
+                  "jersey": "24",
+                  "team": {
+                    "id": "371"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/144751/ryan-fredericks",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 5264.0,
+                "displayValue": "88'"
+              },
+              "team": {
+                "id": "371"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "122089",
+                  "displayName": "Jack Wilshere",
+                  "shortName": "J Wilshere",
+                  "fullName": "Jack Wilshere",
+                  "jersey": "19",
+                  "team": {
+                    "id": "371"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/122089/jack-wilshere",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 5362.0,
+                "displayValue": "90'"
+              },
+              "team": {
+                "id": "359"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "86377",
+                  "displayName": "Sokratis Papastathopoulos",
+                  "shortName": "S Papastathopoulos",
+                  "fullName": "Sokratis Papastathopoulos",
+                  "jersey": "5",
+                  "team": {
+                    "id": "359"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/86377/sokratis-papastathopoulos",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 5400.0,
+                "displayValue": "90'+2'"
+              },
+              "team": {
+                "id": "359"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "115271",
+                  "displayName": "Danny Welbeck",
+                  "shortName": "D Welbeck",
+                  "fullName": "Danny Welbeck",
+                  "jersey": "23",
+                  "team": {
+                    "id": "359"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/115271/danny-welbeck",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            }
+          ],
+          "headlines": [
+            {
+              "description": "Arsenal celebrated their first Premier League win of the season under new manager Unai Emery after coming from behind to beat West Ham.",
+              "type": "Recap",
+              "shortLinkText": "Emery gets first Arsenal win, 3-1 vs. West Ham"
+            }
+          ],
+          "wasSuspended": false,
+          "playByPlayAvailable": true,
+          "playByPlayAthletes": true
+        }
+      ],
+      "status": {
+        "clock": 5400.0,
+        "displayClock": "90'+5'",
+        "period": 2,
+        "type": {
+          "id": "28",
+          "name": "STATUS_FULL_TIME",
+          "state": "post",
+          "completed": true,
+          "description": "Full Time",
+          "detail": "FT",
+          "shortDetail": "FT"
+        }
+      },
+      "venue": {
+        "displayName": "Emirates Stadium"
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/match/_/gameId/513819/west-ham-united-arsenal",
+          "text": "Summary",
+          "shortText": "Summary",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/report/_/gameId/513819",
+          "text": "Report",
+          "shortText": "Report",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/matchstats/_/gameId/513819",
+          "text": "Statistics",
+          "shortText": "Statistics",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        }
+      ]
+    },
+    {
+      "id": "513812",
+      "uid": "s:600~l:700~e:513812",
+      "date": "2018-08-25T14:00Z",
+      "name": "Cardiff City at Huddersfield Town",
+      "shortName": "CAR @ HUD",
+      "season": {
+        "year": 2018,
+        "type": 8235,
+        "slug": "20182019-english-premier-league"
+      },
+      "competitions": [
+        {
+          "id": "513812",
+          "uid": "s:600~l:700~e:513812~c:513812",
+          "date": "2018-08-25T14:00Z",
+          "startDate": "2018-08-25T14:00Z",
+          "attendance": 21193,
+          "timeValid": true,
+          "recent": false,
+          "status": {
+            "clock": 5400.0,
+            "displayClock": "90'+4'",
+            "period": 2,
+            "type": {
+              "id": "28",
+              "name": "STATUS_FULL_TIME",
+              "state": "post",
+              "completed": true,
+              "description": "Full Time",
+              "detail": "FT",
+              "shortDetail": "FT"
+            }
+          },
+          "venue": {
+            "id": "4974",
+            "fullName": "John Smith's Stadium",
+            "address": {
+              "city": "Huddersfield",
+              "country": "England"
+            }
+          },
+          "format": {
+            "regulation": {
+              "periods": 2
+            }
+          },
+          "notes": [],
+          "geoBroadcasts": [],
+          "broadcasts": [],
+          "broadcast": "",
+          "competitors": [
+            {
+              "id": "335",
+              "uid": "s:600~t:335",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "winner": false,
+              "form": "LLLLL",
+              "score": "0",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "0-1-2",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "335",
+                "uid": "s:600~t:335",
+                "abbreviation": "HUD",
+                "displayName": "Huddersfield Town",
+                "shortDisplayName": "Huddersfield",
+                "name": "Huddersfield Town",
+                "location": "Huddersfield Town",
+                "color": "0074d0",
+                "alternateColor": "f4e874",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/335.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/335/huddersfield-town",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/335/huddersfield-town",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/335/huddersfield-town",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/335/huddersfield-town",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "4974"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "8"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "7"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "58"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "5"
+                }
+              ]
+            },
+            {
+              "id": "347",
+              "uid": "s:600~t:347",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "winner": false,
+              "form": "LDDLL",
+              "score": "0",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "0-2-1",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "347",
+                "uid": "s:600~t:347",
+                "abbreviation": "CAR",
+                "displayName": "Cardiff City",
+                "shortDisplayName": "Cardiff",
+                "name": "Cardiff City",
+                "location": "Cardiff City",
+                "color": "0000fa",
+                "alternateColor": "c6d4db",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/347.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/347/cardiff-city",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/347/cardiff-city",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/347/cardiff-city",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/347/cardiff-city",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "3893"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "10"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "7"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "42"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "12"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "4"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "14"
+                }
+              ]
+            }
+          ],
+          "details": [
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 3757.0,
+                "displayValue": "63'"
+              },
+              "team": {
+                "id": "347"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "111019",
+                  "displayName": "Harry Arter",
+                  "shortName": "H Arter",
+                  "fullName": "Harry Arter",
+                  "jersey": "7",
+                  "team": {
+                    "id": "347"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/111019/harry-arter",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "93",
+                "text": "Red Card"
+              },
+              "clock": {
+                "value": 3763.0,
+                "displayValue": "63'"
+              },
+              "team": {
+                "id": "335"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": true,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "138907",
+                  "displayName": "Jonathan Hogg",
+                  "shortName": "J Hogg",
+                  "fullName": "Jonathan Hogg",
+                  "jersey": "6",
+                  "team": {
+                    "id": "335"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/138907/jonathan-hogg",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            }
+          ],
+          "headlines": [
+            {
+              "description": "Huddersfield Town survived Jonathan Hogg's sending off to claim their first Premier League point of the season after a 0-0 draw against Cardiff.",
+              "type": "Recap",
+              "shortLinkText": "Huddersfield, Cardiff still winless after draw"
+            }
+          ],
+          "wasSuspended": false,
+          "playByPlayAvailable": true,
+          "playByPlayAthletes": true
+        }
+      ],
+      "status": {
+        "clock": 5400.0,
+        "displayClock": "90'+4'",
+        "period": 2,
+        "type": {
+          "id": "28",
+          "name": "STATUS_FULL_TIME",
+          "state": "post",
+          "completed": true,
+          "description": "Full Time",
+          "detail": "FT",
+          "shortDetail": "FT"
+        }
+      },
+      "venue": {
+        "displayName": "John Smith's Stadium"
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/match/_/gameId/513812/cardiff-city-huddersfield-town",
+          "text": "Summary",
+          "shortText": "Summary",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/report/_/gameId/513812",
+          "text": "Report",
+          "shortText": "Report",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/matchstats/_/gameId/513812",
+          "text": "Statistics",
+          "shortText": "Statistics",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        }
+      ]
+    },
+    {
+      "id": "513816",
+      "uid": "s:600~l:700~e:513816",
+      "date": "2018-08-25T14:00Z",
+      "name": "Leicester City at Southampton",
+      "shortName": "LEI @ SOU",
+      "season": {
+        "year": 2018,
+        "type": 8235,
+        "slug": "20182019-english-premier-league"
+      },
+      "competitions": [
+        {
+          "id": "513816",
+          "uid": "s:600~l:700~e:513816~c:513816",
+          "date": "2018-08-25T14:00Z",
+          "startDate": "2018-08-25T14:00Z",
+          "attendance": 29925,
+          "timeValid": true,
+          "recent": false,
+          "status": {
+            "clock": 5400.0,
+            "displayClock": "90'+6'",
+            "period": 2,
+            "type": {
+              "id": "28",
+              "name": "STATUS_FULL_TIME",
+              "state": "post",
+              "completed": true,
+              "description": "Full Time",
+              "detail": "FT",
+              "shortDetail": "FT"
+            }
+          },
+          "venue": {
+            "id": "4850",
+            "fullName": "St. Mary's Stadium",
+            "address": {
+              "city": "Southampton",
+              "country": "England"
+            }
+          },
+          "format": {
+            "regulation": {
+              "periods": 2
+            }
+          },
+          "notes": [],
+          "geoBroadcasts": [],
+          "broadcasts": [],
+          "broadcast": "",
+          "competitors": [
+            {
+              "id": "376",
+              "uid": "s:600~t:376",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "winner": false,
+              "form": "LLDLL",
+              "score": "1",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "0-1-2",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "376",
+                "uid": "s:600~t:376",
+                "abbreviation": "SOU",
+                "displayName": "Southampton",
+                "shortDisplayName": "Southampton",
+                "name": "Southampton",
+                "location": "Southampton",
+                "color": "ED1A3B",
+                "alternateColor": "f1ee13",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/376/southampton",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/376/southampton",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/376/southampton",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/376/southampton",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "10019"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "13"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "11"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "51.7"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "7"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "5"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "11"
+                }
+              ]
+            },
+            {
+              "id": "375",
+              "uid": "s:600~t:375",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "winner": true,
+              "form": "LWDWL",
+              "score": "2",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "2-0-1",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "375",
+                "uid": "s:600~t:375",
+                "abbreviation": "LEI",
+                "displayName": "Leicester City",
+                "shortDisplayName": "Leicester",
+                "name": "Leicester City",
+                "location": "Leicester City",
+                "color": "0202fb",
+                "alternateColor": "000000",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/375/leicester-city",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/375/leicester-city",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/375/leicester-city",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/375/leicester-city",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "5774"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "11"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "3"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "48.3"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "5"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "5"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "8"
+                }
+              ]
+            }
+          ],
+          "details": [
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 1548.0,
+                "displayValue": "26'"
+              },
+              "team": {
+                "id": "376"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "159543",
+                  "displayName": "Pierre-Emile Højbjerg",
+                  "shortName": "P Højbjerg",
+                  "fullName": "Pierre-Emile Højbjerg",
+                  "jersey": "23",
+                  "team": {
+                    "id": "376"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/159543/pierre-emile-højbjerg",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 3090.0,
+                "displayValue": "52'"
+              },
+              "team": {
+                "id": "376"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "91489",
+                  "displayName": "Ryan Bertrand",
+                  "shortName": "R Bertrand",
+                  "fullName": "Ryan Bertrand",
+                  "jersey": "21",
+                  "team": {
+                    "id": "376"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/91489/ryan-bertrand",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 3323.0,
+                "displayValue": "56'"
+              },
+              "team": {
+                "id": "375"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "194403",
+                  "displayName": "Demarai Gray",
+                  "shortName": "D Gray",
+                  "fullName": "Demarai Gray",
+                  "jersey": "7",
+                  "team": {
+                    "id": "375"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/194403/demarai-gray",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 3810.0,
+                "displayValue": "64'"
+              },
+              "team": {
+                "id": "376"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "91489",
+                  "displayName": "Ryan Bertrand",
+                  "shortName": "R Bertrand",
+                  "fullName": "Ryan Bertrand",
+                  "jersey": "21",
+                  "team": {
+                    "id": "376"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/91489/ryan-bertrand",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "93",
+                "text": "Red Card"
+              },
+              "clock": {
+                "value": 4591.0,
+                "displayValue": "77'"
+              },
+              "team": {
+                "id": "376"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": true,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "159543",
+                  "displayName": "Pierre-Emile Højbjerg",
+                  "shortName": "P Højbjerg",
+                  "fullName": "Pierre-Emile Højbjerg",
+                  "jersey": "23",
+                  "team": {
+                    "id": "376"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/159543/pierre-emile-højbjerg",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 5400.0,
+                "displayValue": "90'+2'"
+              },
+              "team": {
+                "id": "375"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "157073",
+                  "displayName": "Harry Maguire",
+                  "shortName": "H Maguire",
+                  "fullName": "Harry Maguire",
+                  "jersey": "15",
+                  "team": {
+                    "id": "375"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/157073/harry-maguire",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 5400.0,
+                "displayValue": "90'+3'"
+              },
+              "team": {
+                "id": "375"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "157073",
+                  "displayName": "Harry Maguire",
+                  "shortName": "H Maguire",
+                  "fullName": "Harry Maguire",
+                  "jersey": "15",
+                  "team": {
+                    "id": "375"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/157073/harry-maguire",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            }
+          ],
+          "headlines": [
+            {
+              "description": "Defender Harry Maguire's stoppage-time goal gave Leicester City a hard-fought 2-1 Premier League victory over 10-man Southampton on Saturday.",
+              "type": "Recap",
+              "shortLinkText": "Leicester win at Saints after Maguire strike"
+            }
+          ],
+          "wasSuspended": false,
+          "playByPlayAvailable": true,
+          "playByPlayAthletes": true
+        }
+      ],
+      "status": {
+        "clock": 5400.0,
+        "displayClock": "90'+6'",
+        "period": 2,
+        "type": {
+          "id": "28",
+          "name": "STATUS_FULL_TIME",
+          "state": "post",
+          "completed": true,
+          "description": "Full Time",
+          "detail": "FT",
+          "shortDetail": "FT"
+        }
+      },
+      "venue": {
+        "displayName": "St. Mary's Stadium"
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/match/_/gameId/513816/leicester-city-southampton",
+          "text": "Summary",
+          "shortText": "Summary",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/report/_/gameId/513816",
+          "text": "Report",
+          "shortText": "Report",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/matchstats/_/gameId/513816",
+          "text": "Statistics",
+          "shortText": "Statistics",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        }
+      ]
+    },
+    {
+      "id": "513810",
+      "uid": "s:600~l:700~e:513810",
+      "date": "2018-08-25T16:30Z",
+      "name": "Brighton & Hove Albion at Liverpool",
+      "shortName": "BHA @ LIV",
+      "season": {
+        "year": 2018,
+        "type": 8235,
+        "slug": "20182019-english-premier-league"
+      },
+      "competitions": [
+        {
+          "id": "513810",
+          "uid": "s:600~l:700~e:513810~c:513810",
+          "date": "2018-08-25T16:30Z",
+          "startDate": "2018-08-25T16:30Z",
+          "attendance": 53294,
+          "timeValid": true,
+          "recent": false,
+          "status": {
+            "clock": 5400.0,
+            "displayClock": "90'+4'",
+            "period": 2,
+            "type": {
+              "id": "28",
+              "name": "STATUS_FULL_TIME",
+              "state": "post",
+              "completed": true,
+              "description": "Full Time",
+              "detail": "FT",
+              "shortDetail": "FT"
+            }
+          },
+          "venue": {
+            "id": "192",
+            "fullName": "Anfield",
+            "address": {
+              "city": "Liverpool",
+              "country": "England"
+            }
+          },
+          "format": {
+            "regulation": {
+              "periods": 2
+            }
+          },
+          "notes": [],
+          "geoBroadcasts": [],
+          "broadcasts": [],
+          "broadcast": "",
+          "competitors": [
+            {
+              "id": "364",
+              "uid": "s:600~t:364",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "winner": true,
+              "form": "DLDLW",
+              "score": "1",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "3-0-0",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "364",
+                "uid": "s:600~t:364",
+                "abbreviation": "LIV",
+                "displayName": "Liverpool",
+                "shortDisplayName": "Liverpool",
+                "name": "Liverpool",
+                "location": "Liverpool",
+                "color": "d11317",
+                "alternateColor": "132257",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/364/liverpool",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/364/liverpool",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/364/liverpool",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/364/liverpool",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "192"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "8"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "8"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "70"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "18"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "8"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "22"
+                }
+              ]
+            },
+            {
+              "id": "331",
+              "uid": "s:600~t:331",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "winner": false,
+              "form": "WWWDW",
+              "score": "0",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "1-0-2",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "331",
+                "uid": "s:600~t:331",
+                "abbreviation": "BHA",
+                "displayName": "Brighton & Hove Albion",
+                "shortDisplayName": "Brighton",
+                "name": "Brighton & Hove Albion",
+                "location": "Brighton & Hove Albion",
+                "color": "0606fa",
+                "alternateColor": "ffdd00",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/331/brighton-hove-albion",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/331/brighton-hove-albion",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/331/brighton-hove-albion",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/331/brighton-hove-albion",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "isHidden": false
+                  }
+                ],
+                "venue": {
+                  "id": "4440"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "14"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "5"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "30"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "4"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "6"
+                }
+              ]
+            }
+          ],
+          "details": [
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 1323.0,
+                "displayValue": "23'"
+              },
+              "team": {
+                "id": "364"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "173896",
+                  "displayName": "Mohamed Salah",
+                  "shortName": "M Salah",
+                  "fullName": "Mohamed Salah",
+                  "jersey": "11",
+                  "team": {
+                    "id": "364"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/173896/mohamed-salah",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "F"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 3577.0,
+                "displayValue": "60'"
+              },
+              "team": {
+                "id": "331"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "121550",
+                  "displayName": "Leon Balogun",
+                  "shortName": "L Balogun",
+                  "fullName": "Leon Balogun",
+                  "jersey": "14",
+                  "team": {
+                    "id": "331"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/121550/leon-balogun",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 4565.0,
+                "displayValue": "77'"
+              },
+              "team": {
+                "id": "364"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "223532",
+                  "displayName": "Trent Alexander-Arnold",
+                  "shortName": "T Alexander-Arnold",
+                  "fullName": "Trent Alexander-Arnold",
+                  "jersey": "66",
+                  "team": {
+                    "id": "364"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/223532/trent-alexander-arnold",
+                      "isHidden": false
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            }
+          ],
+          "headlines": [
+            {
+              "description": "Premier League",
+              "type": "Recap",
+              "shortLinkText": "Salah scores as Liverpool edge past Brighton"
+            }
+          ],
+          "wasSuspended": false,
+          "playByPlayAvailable": true,
+          "playByPlayAthletes": true
+        }
+      ],
+      "status": {
+        "clock": 5400.0,
+        "displayClock": "90'+4'",
+        "period": 2,
+        "type": {
+          "id": "28",
+          "name": "STATUS_FULL_TIME",
+          "state": "post",
+          "completed": true,
+          "description": "Full Time",
+          "detail": "FT",
+          "shortDetail": "FT"
+        }
+      },
+      "venue": {
+        "displayName": "Anfield"
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/match/_/gameId/513810/brighton-hove-albion-liverpool",
+          "text": "Summary",
+          "shortText": "Summary",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/report/_/gameId/513810",
+          "text": "Report",
+          "shortText": "Report",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/matchstats/_/gameId/513810",
+          "text": "Statistics",
+          "shortText": "Statistics",
+          "isExternal": false,
+          "isPremium": false,
+          "isHidden": false
+        }
+      ]
+    }
+  ]
+}

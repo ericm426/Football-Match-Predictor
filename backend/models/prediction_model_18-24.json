@@ -1,0 +1,142 @@
+{
+  "basic_probabilities": {
+    "home_win_rate": 0.4473684210526316,
+    "away_win_rate": 0.3263157894736842,
+    "draw_rate": 0.22631578947368421,
+    "total_matches": 2280
+  },
+  "form_probabilities": {
+    "-2.5": {
+      "home_win_prob": 0.14285714285714285,
+      "away_win_prob": 0.5,
+      "draw_prob": 0.35714285714285715,
+      "sample_size": 14
+    },
+    "-2.25": {
+      "home_win_prob": 0.06666666666666667,
+      "away_win_prob": 0.7333333333333333,
+      "draw_prob": 0.2,
+      "sample_size": 15
+    },
+    "-2.0": {
+      "home_win_prob": 0.15,
+      "away_win_prob": 0.65,
+      "draw_prob": 0.2,
+      "sample_size": 20
+    },
+    "-1.75": {
+      "home_win_prob": 0.2727272727272727,
+      "away_win_prob": 0.6363636363636364,
+      "draw_prob": 0.09090909090909091,
+      "sample_size": 33
+    },
+    "-1.5": {
+      "home_win_prob": 0.14736842105263157,
+      "away_win_prob": 0.6421052631578947,
+      "draw_prob": 0.21052631578947367,
+      "sample_size": 95
+    },
+    "-1.25": {
+      "home_win_prob": 0.3387096774193548,
+      "away_win_prob": 0.4838709677419355,
+      "draw_prob": 0.1774193548387097,
+      "sample_size": 62
+    },
+    "-1.0": {
+      "home_win_prob": 0.3116883116883117,
+      "away_win_prob": 0.44155844155844154,
+      "draw_prob": 0.24675324675324675,
+      "sample_size": 154
+    },
+    "-0.75": {
+      "home_win_prob": 0.4105263157894737,
+      "away_win_prob": 0.37894736842105264,
+      "draw_prob": 0.21052631578947367,
+      "sample_size": 95
+    },
+    "-0.5": {
+      "home_win_prob": 0.36363636363636365,
+      "away_win_prob": 0.40828402366863903,
+      "draw_prob": 0.22485207100591716,
+      "sample_size": 354
+    },
+    "-0.25": {
+      "home_win_prob": 0.47058823529411764,
+      "away_win_prob": 0.2647058823529412,
+      "draw_prob": 0.2647058823529412,
+      "sample_size": 102
+    },
+    "0.0": {
+      "home_win_prob": 0.45517241379310346,
+      "away_win_prob": 0.30689655172413793,
+      "draw_prob": 0.23793103448275862,
+      "sample_size": 290
+    },
+    "0.25": {
+      "home_win_prob": 0.5446428571428571,
+      "away_win_prob": 0.20535714285714285,
+      "draw_prob": 0.25,
+      "sample_size": 112
+    },
+    "0.5": {
+      "home_win_prob": 0.5098039215686274,
+      "away_win_prob": 0.24509803921568626,
+      "draw_prob": 0.24509803921568626,
+      "sample_size": 337
+    },
+    "0.75": {
+      "home_win_prob": 0.5070422535211268,
+      "away_win_prob": 0.18309859154929578,
+      "draw_prob": 0.30985915492957744,
+      "sample_size": 71
+    },
+    "1.0": {
+      "home_win_prob": 0.6131386861313869,
+      "away_win_prob": 0.1459854014598540,
+      "draw_prob": 0.24087591240875914,
+      "sample_size": 145
+    },
+    "1.25": {
+      "home_win_prob": 0.5454545454545454,
+      "away_win_prob": 0.2545454545454545,
+      "draw_prob": 0.2,
+      "sample_size": 55
+    },
+    "1.5": {
+      "home_win_prob": 0.6346153846153846,
+      "away_win_prob": 0.17307692307692307,
+      "draw_prob": 0.1923076923076923,
+      "sample_size": 104
+    },
+    "1.75": {
+      "home_win_prob": 0.5263157894736842,
+      "away_win_prob": 0.2631578947368421,
+      "draw_prob": 0.21052631578947367,
+      "sample_size": 19
+    },
+    "2.0": {
+      "home_win_prob": 0.8333333333333334,
+      "away_win_prob": 0.0,
+      "draw_prob": 0.16666666666666666,
+      "sample_size": 18
+    },
+    "2.25": {
+      "home_win_prob": 0.8235294117647058,
+      "away_win_prob": 0.11764705882352941,
+      "draw_prob": 0.058823529411764705,
+      "sample_size": 17
+    },
+    "2.5": {
+      "home_win_prob": 1.0,
+      "away_win_prob": 0.0,
+      "draw_prob": 0.0,
+      "sample_size": 8
+    }
+  },
+  "metadata": {
+    "seasons": "2018-2025",
+    "total_matches": 2280,
+    "datasets_combined": 3,
+    "seasons_included": ["2018-2023", "2023-24", "2024-25"]
+  }
+}
