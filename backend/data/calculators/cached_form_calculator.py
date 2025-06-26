@@ -1,5 +1,5 @@
 import json
-### TODO Fix Form Calculator Later down the line bcs its fucked rn and calcs the form of team on last 5 matches of the season
+
 class CachedFormCalculator:
     def __init__(self, cache_file='form_cache.json'):
         self.cache = self.load_cache(cache_file)
@@ -26,7 +26,7 @@ class CachedFormCalculator:
         return None
     
     def compare_teams(self, team1, team2):
-        """Quick comparison of two teams"""
+        """comparison of two teams"""
         team1_form = self.get_team_form(team1)
         team2_form = self.get_team_form(team2)
         

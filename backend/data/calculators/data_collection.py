@@ -2,7 +2,7 @@ import json
 import time
 import requests
 from datetime import datetime
-from api_client import FootballDataAPI
+from backend.data.api_client import FootballDataAPI
 
 class HistoricalPLData:
     def __init__(self):
@@ -17,7 +17,7 @@ class HistoricalPLData:
 
     def collect_season(self, start_date, end_date, season_name):
         print(f"Collecting all season data for PL Season {season_name}")
-        url = f"{self.api.base_url}/competitions/2021/matches"
+        url = f"{self.api.base_url}/competitions/PL/matches"
         params = {
             'dateFrom': start_date,
             'dateTo': end_date,
@@ -53,7 +53,7 @@ class HistoricalPLData:
         
         return all_matches
     
-    def save_data(self, matches, filename="5year_PL_data.json"):
+    def save_data(self, matches, filename="24-25_fixtures.json"):
         print(f"Saving {len(matches)} to {filename}")
         with open(filename, 'w') as file:
             json.dump(matches, file, indent=2)
@@ -67,14 +67,14 @@ def main():
     print("This might take a few minutes...")
     
     # Collect all data
-    matches = collector.collect_all_data()
-    
+    #matches = collector.collect_all_data()
+    fixtures24 = collector.collect_season('2024-08-01', '2025-07-31', '2024-25')
     # Save to file
-    collector.save_data(matches)
+    collector.save_data(fixtures24)
     
     print(f"\nCollection complete!")
-    print(f"Total matches collected: {len(matches)}")
-    print(f"Data saved to: historical_pl_data.json")
+    print(f"Total matches collected: {len(fixtures24)}")
+    print(f"Data saved to: 24-25_fixtures.json")
 
 if __name__ == "__main__":
     main()    

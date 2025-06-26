@@ -1,6 +1,6 @@
 import json
 from collections import defaultdict
-from cached_form_calculator import CachedFormCalculator
+from backend.data.calculators.cached_form_calculator import CachedFormCalculator
 
 class ProbabilityAnalyzer:
     def __init__(self):
@@ -8,7 +8,7 @@ class ProbabilityAnalyzer:
         self.matches = self.load_historical_data()
     
     def load_historical_data(self):
-        """Load historical match data"""
+        """Load match data"""
         with open('23-24_PLData.json', 'r') as f:
             return json.load(f)
     
