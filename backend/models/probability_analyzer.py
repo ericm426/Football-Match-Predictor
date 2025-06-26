@@ -1,6 +1,6 @@
 import json
 from collections import defaultdict
-from backend.data.calculators.cached_form_calculator import CachedFormCalculator
+from cached_form_calculator import CachedFormCalculator
 
 class ProbabilityAnalyzer:
     def __init__(self):
@@ -9,7 +9,7 @@ class ProbabilityAnalyzer:
     
     def load_historical_data(self):
         """Load match data"""
-        with open('23-24_PLData.json', 'r') as f:
+        with open('24-25_fixtures.json', 'r') as f:
             return json.load(f)
     
     def calculate_basic_probabilities(self):
@@ -70,7 +70,7 @@ class ProbabilityAnalyzer:
     
     def generate_prediction_model(self):
         """Create the complete prediction model"""
-        print("Analyzing 2023-24 Premier League data...")
+        print("Analyzing 2024-25 Premier League data...")
         
         basic_probs = self.calculate_basic_probabilities()
         print(f"\nBasic probabilities from {basic_probs['total_matches']} matches:")
@@ -94,15 +94,15 @@ class ProbabilityAnalyzer:
             'basic_probabilities': basic_probs,
             'form_probabilities': form_analysis,
             'metadata': {
-                'season': '2023-24',
+                'season': '2024-25',
                 'total_matches': basic_probs['total_matches']
             }
         }
         
-        with open('prediction_model.json', 'w') as f:
+        with open('prediction_model_24-25.json', 'w') as f:
             json.dump(model, f, indent=2)
         
-        print(f"\nPrediction model saved to prediction_model.json")
+        print(f"\nPrediction model saved to prediction_model_24-25")
         return model
 
 if __name__ == "__main__":

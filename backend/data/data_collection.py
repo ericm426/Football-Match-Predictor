@@ -2,7 +2,7 @@ import json
 import time
 import requests
 from datetime import datetime
-from backend.data.api_client import FootballDataAPI
+from api_client import FootballDataAPI
 
 class HistoricalPLData:
     def __init__(self):
@@ -53,7 +53,8 @@ class HistoricalPLData:
         
         return all_matches
     
-    def save_data(self, matches, filename="24-25_fixtures.json"):
+    def save_data(self, matches, filename="22-23_fixtures.json"):
+        save_path = 'C:\Users\Eric_\OneDrive\Documents\GitHub\Football-Match-Predictor\backend\data'
         print(f"Saving {len(matches)} to {filename}")
         with open(filename, 'w') as file:
             json.dump(matches, file, indent=2)
@@ -68,13 +69,14 @@ def main():
     
     # Collect all data
     #matches = collector.collect_all_data()
-    fixtures24 = collector.collect_season('2024-08-01', '2025-07-31', '2024-25')
+    season = input("Season: ")
+    fixtures23 = collector.collect_season('2022-08-01', '2023-07-31', season)
     # Save to file
-    collector.save_data(fixtures24)
+    collector.save_data(fixtures23)
     
     print(f"\nCollection complete!")
-    print(f"Total matches collected: {len(fixtures24)}")
-    print(f"Data saved to: 24-25_fixtures.json")
+    print(f"Total matches collected: {len(fixtures23)}")
+    print(f"Data saved to: 22-23_fixtures.json")
 
 if __name__ == "__main__":
     main()    
